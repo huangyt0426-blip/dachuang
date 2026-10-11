@@ -1,0 +1,15 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import { FileBlob, SpreadsheetFile } from '@oai/artifact-tool';
+const file=path.resolve('outputs/ai_photo_competition_formal_experiment/AI照片摄影比赛事件正式实验数据表.xlsx');
+const wb=await SpreadsheetFile.importXlsx(await FileBlob.load(file));
+wb.recalculate();
+const values=wb.worksheets.getItem('逐帖完整性').getUsedRange().values;
+const header=values[0], rows=values.slice(1).filter(r=>r[header.indexOf('post_id')]);
+console.log(JSON.stringify({roots:rows.length,pending:rows.filter(r=>['pending','in_progress'].includes(r[header.indexOf('status')])).map(r=>r[header.indexOf('post_id')])}));
+for(const name of ['评论节点','回复节点','转发节点','排除节点']) console.log(JSON.stringify({name,rows:wb.worksheets.getItem(name).getUsedRange().values.length-1}));
+console.log((await wb.inspect({kind:'table',range:'逐帖完整性!A20:J38',include:'values,formulas',tableMaxRows:19,tableMaxCols:10,maxChars:15000})).ndjson);
+console.log((await wb.inspect({kind:'match',searchTerm:'#REF!|#DIV/0!|#VALUE!|#NAME\\?|#N/A|#NUM!|#NULL!|#SPILL!|#CALC!',options:{useRegex:true,maxResults:100},summary:'final formula error scan'})).ndjson);
+const preview=await wb.render({sheetName:'逐帖完整性',range:'A20:J38',scale:1.2,format:'png'});
+await fs.writeFile(path.resolve('outputs/ai_photo_competition_formal_experiment/all_remaining_verify.png'),new Uint8Array(await preview.arrayBuffer()));
+await(await SpreadsheetFile.exportXlsx(wb)).save(file);

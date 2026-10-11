@@ -1,0 +1,2 @@
+scope_version,event_id,status,start_date,end_date,collection_cutoff,window_rule,include_rule,exclude_rule,core_topics
+openclaw_scope_v1,E02,frozen,2026-02-01,2026-03-31,2026-08-18,"北京时间，根帖发布时间落在起止日期内","根帖明确讨论OpenClaw/AI龙虾的权限、隐私、凭证、公网暴露、安全使用或风险预警","餐饮小龙虾、养殖、同名无关内容、仅在截止日后发布且不属于事件回顾的内容","#AI龙虾爆火工信部发布高危风险预警#|#AI龙虾可像人一样帮你干活#|#龙虾一秒可搬空用户隐私信息#|#养龙虾存在严重安全隐患#|#普通人无需盲目跟风养龙虾#"

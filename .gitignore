@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+tools/node_modules/
+tools/ExtractIFilterText.exe
+artifacts/review/~$*.doc
+# Keep the anonymized research corpus and curated outputs under version control.
+# Do not commit temporary renders, inspection caches, backups, or model artifacts.
+outputs/*
+!outputs/openclaw_formal_experiment/
+outputs/openclaw_formal_experiment/*
+!outputs/openclaw_formal_experiment/OpenClaw正式实验数据表.xlsx
+!outputs/ai_photo_competition_formal_experiment/
+outputs/ai_photo_competition_formal_experiment/*
+!outputs/ai_photo_competition_formal_experiment/AI照片摄影比赛事件正式实验数据表.xlsx
+checkpoints/
+wandb/
+artifacts/review/source_readonly_copy.doc
+

@@ -1,0 +1,6 @@
+text,anger,fear,event_id
+这家公司必须为算法歧视负责，应该公开道歉并追责。,1,0,algorithm_bias_demo
+AI越来越强，我很担心毕业以后根本找不到工作。,0,1,job_displacement_demo
+换脸诈骗害了这么多人，平台和开发者必须承担责任，我也害怕家人被骗。,1,1,deepfake_fraud_demo
+今天发布了新的人工智能模型，参数和评测结果已经公开。,0,0,model_release_demo
+

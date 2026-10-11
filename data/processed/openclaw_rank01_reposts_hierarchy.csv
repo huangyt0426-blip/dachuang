@@ -1,0 +1,492 @@
+platform,event_id,topic,root_post_id,node_id,parent_node_id,node_type,created_at,text_raw,like_count,repost_count,comment_count,depth,author_hash,collected_at,has_repost_chain,inferred_parent_node_id,parent_resolution_status,inferred_depth
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvoYO3aZO,,repost,26-3-10 08:49,转发微博,0,,,1,b23ea4c9ae5eba4d,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvpdK33TE,,repost,26-3-10 09:26,#AI龙虾爆火工信部发布高危风险预警# 工信部还是有真专家的。,7,,,1,7e0c67bf7b9d7a4a,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvpE9hOQp,,repost,26-3-10 10:31,工业和信息化部网络安全威胁和漏洞信息共享平台（NVDB）发布《关于防范OpenClaw开源AI智能体安全风险的预警提示》，明确指出平台监测到OpenClaw部分实例在默认或不当配置情况下存在较高安全风险，极易引发网络攻击、信息泄露等安全问题。,0,,,1,4ca542d9a248fe92,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvqQGtJNE,,repost,26-3-10 13:35,//@大叔咖清了:#AI龙虾爆火工信部发布高危风险预警# 工信部还是有真专家的。,0,,,1,88a3158c774ee51a,2026-08-18,True,QvpdK33TE,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvvwT9pdw,,repost,26-3-11 01:30,炒成这样，背后的目的和利益方就难讲了…//@秦祎墨:大家是真的不想一想，全交给电脑以后的权限问题吗………………app后台侵犯隐私权限还被在被骂呢…现在来个全智能体就一窝蜂上了…我不反对但要慎重……,0,,,1,da52390ac7269715,2026-08-18,True,Qva4kdgTx,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvwJ2z6uh,,repost,26-3-11 04:32,//@克羅迪厄斯VIII:希腊人的木马是特洛伊人自己开城门拉进去的,0,,,1,a2c19f4d5e6212f2,2026-08-18,True,QvaD8pb01,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvybQyBPL,,repost,26-3-11 08:16,转发微博,0,,,1,e5c90bebe0f10425,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvyhKseTZ,,repost,26-3-11 08:31,转发微博,0,,,1,0521b19a3f27399b,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvyCgbOhV,,repost,26-3-11 09:21,//@从九溪到满觉陇:让用户欢天喜地的把所有权限拱手相让，病毒都自叹不如,0,,,1,9c71dd1285c5dfb0,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvyS5dNgO,,repost,26-3-11 10:00,//@还是那个莉拉:？,0,,,1,28dd9b30d5985f9e,2026-08-18,True,QvaATCQZT,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvMEx3Skk,,repost,26-3-12 21:05,转发微博,0,,,1,b2fe1be6b9c557f0,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvO1RekGN,,repost,26-3-13 00:35,转发微博,0,,,1,661f02ce88acd4b6,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvOabBCae,,repost,26-3-13 00:56,Meta一名AI安全研究員Summer Yue在通過手機對談指示OpenClaw協助自己整理電子信箱，並規定「在我指示之前不要執行任何操作」。但由於電子信箱內容太大，OpenClaw觸發了「上下文壓縮」機制並忽視了未經確認不得行動的指令，它開始刪除郵件，即使她連續三次下達「停止」指令，甚至觸發了安全限制，它依然 ...全文,0,,,1,a9090d13eddb8fbc,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvUg7agyI,,repost,26-3-13 16:27,#AI龙虾爆火工信部发布高危风险预警#,0,,,1,f16e42a992c31e38,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv7H8j4Mf,,repost,26-3-8 12:49,#AI龙虾爆火工信部发布高危风险预警# #AI龙虾可像人一样帮你干活#,0,,,1,0b3bca32f4f59cac,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv7MWE5k0,,repost,26-3-8 13:03,#AI龙虾爆火工信部发布高危风险预警# #AI龙虾可像人一样帮你干活#,0,,,1,ec051514b5266b5d,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9nFbTad,,repost,26-3-8 17:07,转发微博,0,,,1,ab92ac590eb7758a,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9vhmtt3,,repost,26-3-8 17:25,#AI龙虾爆火工信部发布高危风险预警# 生命的价值，在于传递善意；人生的意义，在于奉献温暖。每一次伸出援手，每一句暖心话语，都是对世界最深情的告白。,3,,,1,0207276dfb9acda2,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9xDphf4,,repost,26-3-8 17:31,#AI龙虾可像人一样帮你干活# #AI龙虾爆火工信部发布高危风险预警# 近日，一款名为OpenClaw的开源AI智能体（因红色龙虾图标被网友昵称为“AI龙虾”）在全球掀起“养虾热”，其核心能力是让AI从“动嘴建议”转向“动手执行”，可自动操控电脑完成文件整理、邮件发送等任务，但高权限特性也引发工信部紧急 ...全文,0,,,1,d62a655c47764c15,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9xQqtbZ,,repost,26-3-8 17:32,#AI龙虾爆火工信部发布高危风险预警# 近日，一款名为OpenClaw的开源AI智能体（因红色龙虾图标被网友昵称为“AI龙虾”）在全球掀起“养虾热”，其核心能力是让AI从“动嘴建议”转向“动手执行”，可自动操控电脑完成文件整理、邮件发送等任务，但高权限特性也引发工信部紧急发布高危风险预警，提醒用户 ...全文,16,,,1,fb57b1190d5dad06,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9ym70g1,,repost,26-3-8 17:33,转发微博,0,,,1,6b77309f6eea665c,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9yM2Nr3,,repost,26-3-8 17:34,转发微博,0,,,1,a0cc8190730cf888,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9AIvNgk,,repost,26-3-8 17:39,转发微博,0,,,1,75fcab347a8c227c,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9AHqsQr,,repost,26-3-8 17:39,#AI龙虾爆火工信部发布高危风险预警# #AI龙虾可像人一样帮你干活# 真的能帮我们干活？,0,,,1,505b31f6aa6d1fcc,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9Bbtj8w,,repost,26-3-8 17:40,#AI龙虾爆火工信部发布高危风险预警# #AI龙虾可像人一样帮你干活# 怎么安？,0,,,1,339a7d366adb890e,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9BmuOUE,,repost,26-3-8 17:40,#AI龙虾爆火工信部发布高危风险预警# #AI龙虾可像人一样帮你干活# 最近一只“红色龙虾”引爆科技圈，它并非餐桌美味，而是能接管电脑、自动干活的AI神器OpenClaw，但热潮背后潜藏高危风险，工信部紧急发布安全预警。,75,,,1,901980b255fbdc94,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9BUgwPw,,repost,26-3-8 17:42,转发微博,0,,,1,cbec8ea2d2717c25,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9Cryi5O,,repost,26-3-8 17:43,转发微博,0,,,1,2d9b7284f186d2d6,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9CMjTV0,,repost,26-3-8 17:44,最近一只“红色龙虾”引爆科技圈，它并非餐桌美味，而是能接管电脑、自动干活的AI神器OpenClaw，但热潮背后潜藏高危风险，工信部紧急发布安全预警。,1,,,1,5ec255a8c38d4366,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9DoAQTK,,repost,26-3-8 17:45,@-呆萌DiaMond- 自己瞅,0,,,1,f243e5778c425588,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9Dqw7Nj,,repost,26-3-8 17:45,转发微博,0,,,1,ac55d742c4fe6ab3,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9DAyUKs,,repost,26-3-8 17:46,爱物惜物，即是善行；勤俭持家，便是积德。 心不欲杂，行善则真；心若欲杂，空行百善。 以善启善，以善引善；以善育善，以善扬善。 无需言它，从吾做起；不必多言，当下善行。 ​#AI龙虾可像人一样帮你干活# #AI龙虾爆火工信部发布高危风险预警#,5,,,1,925d31c80e32919e,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9EZ13N8,,repost,26-3-8 17:49,转发微博,0,,,1,49783a42982a266c,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9FGq0N5,,repost,26-3-8 17:51,学会等待，就会学会捕捉希望，学会寻找成功之路；学会等待，令心灵的天空群星闪烁，令智慧的花朵芬芳灿烂，令生命的海洋宽广无垠。,0,,,1,990349e9460f9e8c,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9FLz5dg,,repost,26-3-8 17:51,开那么多权限安全?小心盗刷#AI龙虾爆火工信部发布高危风险预警#,0,,,1,68bfc0dfa01da7b2,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9FUFlfT,,repost,26-3-8 17:51,转发微博,0,,,1,bc1e937c02982073,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9GkB8kq,,repost,26-3-8 17:53,转发微博,0,,,1,b6d74f0f8219ac93,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9H8fQtd,,repost,26-3-8 17:54,转发微博,0,,,1,efff467b5ccd072c,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9GVgRfg,,repost,26-3-8 17:54,转发微博,0,,,1,0457e1bd5f7bcabf,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9GTzRIy,,repost,26-3-8 17:54,转发微博,0,,,1,5bfaf592499052df,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9HjxRYK,,repost,26-3-8 17:55,嗯…………,0,,,1,11fbb20ea71c5a33,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9HKfdwB,,repost,26-3-8 17:56,转发微博,0,,,1,5ca5b76fb1585b81,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9HVa8R6,,repost,26-3-8 17:56,转发微博,0,,,1,6719dee419631d1a,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9HAlfty,,repost,26-3-8 17:56,转发微博,0,,,1,ca64052f5b5a8205,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9I9uXCc,,repost,26-3-8 17:57,转发微博,0,,,1,23dcf6e939789801,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9I27TEp,,repost,26-3-8 17:57,近期全网爆火的“AI龙虾”（OpenClaw）因能像真人一样操控电脑自动执行任务引发全民“养虾热”，但工信部紧急发布高危风险预警，直指其存在系统失控、数据泄露等重大安全隐患，普通用户盲目部署可能面临严重损失。,30,,,1,c8f95699696461d1,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9HYCeGG,,repost,26-3-8 17:57,#AI龙虾爆火工信部发布高危风险预警# 分析 深度思考 OpenClaw（俗称“AI龙虾”）是2025年底由奥地利开发者Peter Steinberger推出的开源AI智能体框架，因其红色龙虾图标得名。其核心突破在于赋予AI“执行能力”——用户可通过自然语言指令（如飞书、微信）让其直接操控电脑，自动完成文件整理、邮件处理 ...全文,0,,,1,c4e2d635b06acb98,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9Io7Dta,,repost,26-3-8 17:58,转发微博,0,,,1,a89269dd3971648f,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9Ip1ZwR,,repost,26-3-8 17:58,Token真的很贵吗,0,,,1,a4edc6c09e4c70c6,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9IqlCXe,,repost,26-3-8 17:58,转发微博,0,,,1,f6f484465e7b9727,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9JqtcMe,,repost,26-3-8 18:00,转发微博,0,,,1,0f3e65047153879a,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9JAqtv5,,repost,26-3-8 18:01,转发微博,0,,,1,b553b51fb91a5645,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9KaDmSf,,repost,26-3-8 18:02,连自己安装都搞不定的人，你给他们讲这个他们听得懂吗？他们连自己安装的是个什么东西都不知道，等着被黑吧。,32,,,1,98d8c02b30d184d2,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9KgbYPz,,repost,26-3-8 18:02,转发微博,0,,,1,b2c59737f8301bf1,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9KgxZbD,,repost,26-3-8 18:02,转发微博,0,,,1,3964fad869f7a77d,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9L4pTUP,,repost,26-3-8 18:04,00:28,0,,,1,b8183807c2b2c24b,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9L0uX9t,,repost,26-3-8 18:04,转发微博,0,,,1,95d1b530db448584,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9LUuHyA,,repost,26-3-8 18:06,//@吃石榴偶尔吐籽儿:说没用的是不了解，最简单的，“把这个文件夹里的照片做成视频”，“提取这下面的所有文件内容并总结成工作报告”，所以可能就是因为权限太高，工信部才会提醒，我是干这行相关的，各大厂都在跟进，工信部没那么闲去提醒一个没用的东西。//@月撒断桥映残雪_939:这个对普通人有啥用 ...全文,0,,,1,f4032d2e02f6bf23,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9MwAEa9,,repost,26-3-8 18:08,//@从九溪到满觉陇:让用户欢天喜地的把所有权限拱手相让，病毒都自叹不如,0,,,1,8b83725adcc399ae,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9N376X8,,repost,26-3-8 18:09,转发微博,0,,,1,6c599c560221f8ad,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9MT3eKD,,repost,26-3-8 18:09,#AI龙虾爆火工信部发布高危风险预警# 一只红色“AI龙虾”正席卷全球科技圈——它能7×24小时接管你的电脑自动干活，但也因高危安全风险被工信部紧急预警，有人靠帮人安装几天狂赚26万，风口背后暗藏数据裸奔、系统失控等致命隐患。,0,,,1,1b54513f9f6b90ec,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9Nr3eHn,,repost,26-3-8 18:10,#AI龙虾爆火工信部发布高危风险预警# 在人生的旅程中，每个人的生活都离不开别人的帮助，因为自然界的任何事物都是一个普遍联系的整体，没有谁能够脱离周围的事物而孤立地存在，但在接受别人帮助的同时，我们也要学会去帮助别人。,16,,,1,2b3651c0092dd26e,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9NWmqvd,,repost,26-3-8 18:11,转发微博,0,,,1,f40772416f3ec1b6,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9NVoNuL,,repost,26-3-8 18:11,转发微博,0,,,1,d6cbdc7b5fa40952,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9P45BoQ,,repost,26-3-8 18:14,赞同，但私有化部署也很困难啊,0,,,1,80b3c76c5be93fc0,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9PR8H8q,,repost,26-3-8 18:16,转发微博,0,,,1,b55ca9046260799b,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9QA3BOz,,repost,26-3-8 18:18,【#AI龙虾爆火工信部发布高危风险预警#】#AI龙虾可像人一样帮你干活# 近日，能替你干活的AI“龙虾”OpenClaw全网爆火，因其部署门槛较高，市场催生专业代装服务。有人花500元请人安装，有人称几天内靠上门安装OpenClaw赚了26万元。据了解，该智能体可7*24小时操控电脑，用户通过语言或消息下达指令，它 ...全文,4,,,1,40f5d4b0d5a153d4,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9Rtl7ZM,,repost,26-3-8 18:20,转发微博,0,,,1,857ce3342b11873f,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9RAzoOR,,repost,26-3-8 18:20,转发微博,0,,,1,41eaa72f87a73094,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9RDkB0X,,repost,26-3-8 18:20,转发微博,0,,,1,f78808215ca1e4d5,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9RK8u7C,,repost,26-3-8 18:21,熊猫烧香:他爸的，我当初要是也懂包装，如今我已经掌控这个国家，而不是我爹坐牢去了,0,,,1,369a93748b81b4fb,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9RTt18E,,repost,26-3-8 18:21,转发微博,0,,,1,8b8316b29fd9e1ab,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9SpaELi,,repost,26-3-8 18:22,人最大的对手就是自己的懒惰，做一件事并不难，难的在于坚持，坚持一下也不难，难的是坚持到底，你尽力了，才有资格说自己运气不好，感觉累，也许是因为你真处于人生的上坡路，尽力，才有美好的明天。,0,,,1,3458be11a4472bf4,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9Syyunw,,repost,26-3-8 18:23,转发微博,0,,,1,95d678adfaa021b1,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9SymoeN,,repost,26-3-8 18:23,//@书生杀手:权限越大，风险越大，听话就是工具，不听话或者被攻击就是木马,0,,,1,4bcf83886951e4c0,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9Txu7KY,,repost,26-3-8 18:25,转发微博,0,,,1,0842ba6e7f054d1c,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9U7gBl7,,repost,26-3-8 18:26,【#AI龙虾爆火工信部发布高危风险预警#】#AI龙虾可像人一样帮你干活# 传播正能量是一份积极的心态，使自己的内心充满自信、豁达、愉悦、进取；使别人感到暖和、温馨、亲切、友善。,4,,,1,40f5d4b0d5a153d4,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9TOlSsX,,repost,26-3-8 18:26,信息差,0,,,1,e534562065f178fc,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9VXfN97,,repost,26-3-8 18:31,#AI龙虾爆火工信部发布高危风险预警# 这篇博文报道了AI智能体OpenClaw（俗称“龙虾”）近期全网爆火的现象。该工具能像人类一样操控电脑，自动完成写周报、查网页、订餐厅甚至修复程序bug等任务。因其部署门槛较高，催生了专业代装服务市场，有人花500元请人安装，也有人靠上门安装服务在几天内赚了26 ...全文,24,,,1,a8d0ef0f811d82e3,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9Wg0BSP,,repost,26-3-8 18:32,转发微博,0,,,1,ed6eed04e3b47f31,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9WYCAik,,repost,26-3-8 18:34,//@水木丁:连自己安装都搞不定的人，你给他们讲这个他们听得懂吗？他们连自己安装的是个什么东西都不知道，等着被黑吧。,0,,,1,091087c9513cfa1b,2026-08-18,True,Qv9KaDmSf,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9XsaE4w,,repost,26-3-8 18:35,转发,0,,,1,05673204ff2c2910,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9Y7wCk2,,repost,26-3-8 18:36,转发微博,0,,,1,2ce9b16407319f9d,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9XTvzSr,,repost,26-3-8 18:36,转发微博,0,,,1,cb79861549ff56d5,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9YAvdvP,,repost,26-3-8 18:37,转发微博,0,,,1,a529dc782a0b4e7e,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9ZjkDI4,,repost,26-3-8 18:39,"#AI龙虾爆火工信部发布高危风险预警# 一款名为OpenClaw、图标酷似龙虾的开源AI智能体软件近期因能""替人干活""引爆全网，催生高价安装服务的同时也因高危安全漏洞被工信部紧急预警。",0,,,1,e5298208925e2ef6,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9Zifkqa,,repost,26-3-8 18:39,呵呵这么公开暴露，🔐！,0,,,1,4cf71d5f0a094749,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9ZhkXUW,,repost,26-3-8 18:39,转发微博,0,,,1,178161e40f19cb58,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9ZCaYdy,,repost,26-3-8 18:40,已被禁用😅,0,,,1,d332bf538b206d6f,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qv9Zt982x,,repost,26-3-8 18:40,转发微博,0,,,1,b541262dd7b100f7,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva0szzlL,,repost,26-3-8 18:42,转发,0,,,1,05673204ff2c2910,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva11rItL,,repost,26-3-8 18:43,转发微博,0,,,1,4b0613bb99941393,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva0NrN4U,,repost,26-3-8 18:43,转发微博,0,,,1,a03df4118bab8381,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva0CwQZT,,repost,26-3-8 18:43,//@小依爱吃鱼饼酥:近期全网爆火的“AI龙虾”（OpenClaw）因能像真人一样操控电脑自动执行任务引发全民“养虾热”，但工信部紧急发布高危风险预警，直指其存在系统失控、数据泄露等重大安全隐患，普通用户盲目部署可能面临严重损失。,0,,,1,4b4949a279f8fa58,2026-08-18,True,Qv9I27TEp,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva16apl3,,repost,26-3-8 18:44,感恩是一种善行，我们要感恩一切善待自己的人，感恩世间万物，并且要知恩图报，感恩是一种生活态度，是一种品德，更是一种大智慧，一个人只有心怀感恩，才会懂得珍惜，懂得尊重，懂得付出，才会感受到人生的美好。#AI龙虾爆火工信部发布高危风险预警# #AI龙虾可像人一样帮你干活#,11,,,1,b00cfe2724ac4eef,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva1NAsdx,,repost,26-3-8 18:45,0,0,,,1,951f93b06cd6ae28,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva1NjWRl,,repost,26-3-8 18:45,转发微博,0,,,1,dff4bc83e78a01bc,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva1N09iW,,repost,26-3-8 18:45,#AI龙虾爆火工信部发布高危风险预警# 近期，一款因红色龙虾图标被网友戏称为“AI龙虾”的开源AI智能体OpenClaw爆火全网，其核心能力是“从对话走向执行”——用户只需下达指令，它就能像真人一样操控电脑自动完成写周报、订餐厅、修复代码等任务，甚至7×24小时不间断工作。然而热潮背后，其高权限特性 ...全文,39,,,1,c2b48402538c2af3,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva27a7z0,,repost,26-3-8 18:46,转发微博,0,,,1,1f36c3933c4855de,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva24lBXQ,,repost,26-3-8 18:46,#AI龙虾爆火工信部发布高危风险预警# 温暖是会循环的。一句鼓励、一次伸手、一个微笑，都可能成为别人黑暗中的光。善良从不徒劳，你给出的每份美好，终会以另一种方式回到你身边。与世界互相照亮，才是真正的强者。,50,,,1,e695a2ff96158b93,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva24cOuI,,repost,26-3-8 18:46,近日，能替你干活的AI“龙虾”OpenClaw全网爆火，因其部署门槛较高，市场催生专业代装服务。有人花500元请人安装，有人称几天内靠上门安装OpenClaw赚了26万元。据了解，该智能体可7*24小时操控电脑，用户通过语言或消息下达指令，它便能再后台自动完成各类任务，像人一样帮你干活。比如，你可以用它周 ...全文,74,,,1,b58a3f09662d6b42,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva24aAW4,,repost,26-3-8 18:46,转发微博,0,,,1,920e1f79228b7d2c,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva1WtuHg,,repost,26-3-8 18:46,善语润人心，心田生善花。德行如树木，不养不成荫。志存高远处，善念常相伴。稀世珍宝少，至善更难得。待人以诚挚，行善需至诚。一念可成魔，一念亦可佛。心怀善意在，行事自光明。,0,,,1,6823b7bb5c0b7666,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva2iFlIW,,repost,26-3-8 18:47,"#AI龙虾爆火工信部发布高危风险预警# 心存善念,阳光就会照耀你;心存美丽,温暖就会围绕你;心存大爱,崇高就会追随你;心存他人,真情就会回报你;心存感恩,贵人就会青睐你。人生有两种境界,一种痛而不言,一种笑而不语。",0,,,1,b759af603c300392,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva2VlPjf,,repost,26-3-8 18:48,转发微博,0,,,1,34b8fe424ff51ca3,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva305Cqm,,repost,26-3-8 18:48,太跳了,0,,,1,8c726fd68806c155,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva3flUPN,,repost,26-3-8 18:49,转发微博,0,,,1,60ee9de86500e045,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva4b2Cup,,repost,26-3-8 18:51,#AI龙虾爆火工信部发布高危风险预警# 近日，一款名为OpenClaw的开源AI智能体（因红色龙虾图标被网友称为“AI龙虾”）火爆全网，它能像人类一样操作电脑自动执行任务，但也因高危安全风险被工信部紧急预警，甚至催生了“几天赚26万”的代安装暴利产业。,5,,,1,eccf78895f8c4647,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva3W0EBU,,repost,26-3-8 18:51,#AI龙虾爆火工信部发布高危风险预警# #AI龙虾可像人一样帮你干活# 社会主义核心价值体系是“兴国之魂”，建设社会主义核心价值体系是推动文化大发展大繁荣的根本任务。提炼和概括出简明扼要、便于传播践行的社会主义核心价值观，对于建设社会主义核心价值体系具有重要意义。,7,,,1,de50b213c0d4ca5f,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva4kdgTx,,repost,26-3-8 18:52,大家是真的不想一想，全交给电脑以后的权限问题吗………………app后台侵犯隐私权限还被在被骂呢…现在来个全智能体就一窝蜂上了…我不反对但要慎重……,117,,,1,977851e15666571d,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva4zkKfH,,repost,26-3-8 18:52,转发微博,0,,,1,61a1d745b2f2a04d,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva4xqyPL,,repost,26-3-8 18:52,//@秦祎墨:大家是真的不想一想，全交给电脑以后的权限问题吗………………app后台侵犯隐私权限还被在被骂呢…现在来个全智能体就一窝蜂上了…我不反对但要慎重……,0,,,1,a58ef98e7740bde0,2026-08-18,True,Qva4kdgTx,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva4uayXS,,repost,26-3-8 18:52,#AI龙虾爆火工信部发布高危风险预警# 近期，一款因红色龙虾图标被网友戏称为“AI龙虾”的开源AI智能体OpenClaw爆火全网，其核心能力是“从对话走向执行”——用户只需下达指令，它就能像真人一样操控电脑自动完成写周报、订餐厅、修复代码等任务，甚至7×24小时不间断工作。然而热潮背后，其高权限特性 ...全文,16,,,1,e5c6f0735f99ba25,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva4svMj0,,repost,26-3-8 18:52,转发微博,0,,,1,cb1453104bd33235,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva6C5HNe,,repost,26-3-8 18:57,【#AI龙虾爆火工信部发布高危风险预警#】#AI龙虾可像人一样帮你干活# 近日，能替你干活的AI“龙虾”OpenClaw全网爆火，因其部署门槛较高，市场催生专业代装服务。有人花500元请人安装，有人称几天内靠上门安装OpenClaw赚了26万元。据了解，该智能体可7*24小时操控电脑，用户通过语言或消息下达指令，它 ...全文,3,,,1,40f5d4b0d5a153d4,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva6ov556,,repost,26-3-8 18:57,转发微博,0,,,1,973384deddf33720,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva6nxrjO,,repost,26-3-8 18:57,昨天官媒新闻才说政府部门内部引入龙虾来处理信息，你们要不要统一一下口径？,0,,,1,96156c2eb381095a,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva6PfHBZ,,repost,26-3-8 18:58,怎么敢//@秦祎墨:大家是真的不想一想，全交给电脑以后的权限问题吗………………app后台侵犯隐私权限还被在被骂呢…现在来个全智能体就一窝蜂上了…我不反对但要慎重……,0,,,1,53e5f4c3979a1b8c,2026-08-18,True,Qva4kdgTx,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva7sEcB1,,repost,26-3-8 18:59,转发微博,0,,,1,dd7f5fc3f8893c1f,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva78s2Eq,,repost,26-3-8 18:59,肯定是因为单位电脑无所谓啊//@秦祎墨:大家是真的不想一想，全交给电脑以后的权限问题吗………………app后台侵犯隐私权限还被在被骂呢…现在来个全智能体就一窝蜂上了…我不反对但要慎重……,0,,,1,bc3793c1d6b5c37a,2026-08-18,True,Qva4kdgTx,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva7M3YxN,,repost,26-3-8 19:00,//@秦祎墨:大家是真的不想一想，全交给电脑以后的权限问题吗………………app后台侵犯隐私权限还被在被骂呢…现在来个全智能体就一窝蜂上了…我不反对但要慎重……,0,,,1,71ab24298bb20c96,2026-08-18,True,Qva4kdgTx,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva7Ime4H,,repost,26-3-8 19:00,//@从九溪到满觉陇: 让用户欢天喜地的把所有权限拱手相让，病毒都自叹不如,0,,,1,61d19c56b1eab6ab,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva8igpaq,,repost,26-3-8 19:01,转发微博,0,,,1,a735875226d17193,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva8n1i6e,,repost,26-3-8 19:02,好恐怖,0,,,1,140eb176d2a6f2f8,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva8JgqvP,,repost,26-3-8 19:02,隐私权限确实是个问题，除了🦞外最近应该还会有新的类似产品出来，估计再过几年新买的电脑就会自带这种功能了//@秦祎墨:大家是真的不想一想，全交给电脑以后的权限问题吗………………app后台侵犯隐私权限还被在被骂呢…现在来个全智能体就一窝蜂上了…我不反对但要慎重 ...全文,0,,,1,5c2f6a3433c83c52,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva951TqM,,repost,26-3-8 19:03,转发微博,0,,,1,92d115f3752b0708,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva92ba0v,,repost,26-3-8 19:03,#AI龙虾爆火工信部发布高危风险预警#,0,,,1,73c29c97c70920a1,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva8YDjnI,,repost,26-3-8 19:03,//@街头萌想家:病毒：换个名字跟模式大家就甘心情愿地把我装进电脑,0,,,1,6f00950ca9d598e2,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva8NozZg,,repost,26-3-8 19:03,转发微博,0,,,1,44938e28ab6bf228,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva8N9bwF,,repost,26-3-8 19:03,//@Misty_猫巷志屿:近期，一款因红色龙虾图标被网友戏称为“AI龙虾”的开源AI智能体OpenClaw爆火全网，其核心能力是“从对话走向执行”——用户只需下达指令，它就能像真人一样操控电脑自动完成写周报、订餐厅、修复代码等任务，甚至7×24小时不间断工作。然而热潮背后，其高权限特性引发多重安全隐患， ...全文,0,,,1,304e5e63eb9ef77a,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva9tmcQw,,repost,26-3-8 19:04,//@Misty_猫巷志屿:近期，一款因红色龙虾图标被网友戏称为“AI龙虾”的开源AI智能体OpenClaw爆火全网，其核心能力是“从对话走向执行”——用户只需下达指令，它就能像真人一样操控电脑自动完成写周报、订餐厅、修复代码等任务，甚至7×24小时不间断工作。然而热潮背后，其高权限特性引发多重安全隐患， ...全文,0,,,1,01b1762f71560eac,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qva9oEBXb,,repost,26-3-8 19:04,转发微博,0,,,1,b9446c3f2d7b6ba2,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvaa7qJrK,,repost,26-3-8 19:06,//@Misty_猫巷志屿:近期，一款因红色龙虾图标被网友戏称为“AI龙虾”的开源AI智能体OpenClaw爆火全网，其核心能力是“从对话走向执行”——用户只需下达指令，它就能像真人一样操控电脑自动完成写周报、订餐厅、修复代码等任务，甚至7×24小时不间断工作。然而热潮背后，其高权限特性引发多重安全隐患， ...全文,0,,,1,6212b07bdd4a9980,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvaa3AaMV,,repost,26-3-8 19:06,转发微博,0,,,1,3affa51c5b083f79,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvab8fr7o,,repost,26-3-8 19:08,//@秦祎墨:大家是真的不想一想，全交给电脑以后的权限问题吗………………app后台侵犯隐私权限还被在被骂呢…现在来个全智能体就一窝蜂上了…我不反对但要慎重……,0,,,1,1afb23ca80911649,2026-08-18,True,Qva4kdgTx,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaaPxVsB,,repost,26-3-8 19:08,//@Misty_猫巷志屿:近期，一款因红色龙虾图标被网友戏称为“AI龙虾”的开源AI智能体OpenClaw爆火全网，其核心能力是“从对话走向执行”——用户只需下达指令，它就能像真人一样操控电脑自动完成写周报、订餐厅、修复代码等任务，甚至7×24小时不间断工作。然而热潮背后，其高权限特性引发多重安全隐患， ...全文,0,,,1,f2a089e4ebbbbe38,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvabxyv2c,,repost,26-3-8 19:09,//@Misty_猫巷志屿:近期，一款因红色龙虾图标被网友戏称为“AI龙虾”的开源AI智能体OpenClaw爆火全网，其核心能力是“从对话走向执行”——用户只需下达指令，它就能像真人一样操控电脑自动完成写周报、订餐厅、修复代码等任务，甚至7×24小时不间断工作。然而热潮背后，其高权限特性引发多重安全隐患， ...全文,0,,,1,6dc9f3a83a894547,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvabLwePV,,repost,26-3-8 19:10,@国贸大魔王,0,,,1,f207cbc3a6171458,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvachoSa8,,repost,26-3-8 19:11,//@yesyama:风险大于用处//@月撒断桥映残雪_939:这个对普通人有啥用？？好奇问下,0,,,1,f244ad5e60967d65,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvacaupm7,,repost,26-3-8 19:11,//@心月苏:回复@不灵敏的灵敏电流计:国外是真的全方位盗取隐私，你发现也没用，所以外国人很应激不是因为他们在隐私方面做的好，而是一直都没人管，就比如信用卡刷了之后等于对方永久随便扣费。//@不灵敏的灵敏电流计:回复@乘风破浪的Aslan:国内游戏公司，外服反作弊扫个盘都一堆老外说暴露隐私。这个 ...全文,0,,,1,81566439498f49b1,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvac53HBr,,repost,26-3-8 19:11,//@Misty_猫巷志屿:近期，一款因红色龙虾图标被网友戏称为“AI龙虾”的开源AI智能体OpenClaw爆火全网，其核心能力是“从对话走向执行”——用户只需下达指令，它就能像真人一样操控电脑自动完成写周报、订餐厅、修复代码等任务，甚至7×24小时不间断工作。然而热潮背后，其高权限特性引发多重安全隐患， ...全文,0,,,1,57fc85379db6301e,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvadc7WSu,,repost,26-3-8 19:13,//@秦祎墨:大家是真的不想一想，全交给电脑以后的权限问题吗………………app后台侵犯隐私权限还被在被骂呢…现在来个全智能体就一窝蜂上了…我不反对但要慎重……,0,,,1,9b0cd040fddeeff3,2026-08-18,True,Qva4kdgTx,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvadmnVIJ,,repost,26-3-8 19:14,而且盲目用于政务、公益、商业都可能涉及数据外泄，特别政务数据外泄境外更有这方面风险吧,0,,,1,9202d0d858a5d215,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvadlBitU,,repost,26-3-8 19:14,//@吃石榴偶尔吐籽儿 :说没用的是不了解，最简单的，“把这个文件夹里的照片做成视频”，“提取这下面的所有文件内容并总结成工作报告”，所以可能就是因为权限太高，工信部才会提醒，我是干这行相关的，各大厂都在跟进，工信部没那么闲去提醒一个没用的东西。//@月撒断桥映残雪_939 :这个对普通人有啥,0,,,1,bbfcd79fdc434139,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvadEsIJ3,,repost,26-3-8 19:15,#AI龙虾爆火工信部发布高危风险预警# #AI龙虾可像人一样帮你干活#,0,,,1,8749133d79cf53c6,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvae1B7iE,,repost,26-3-8 19:16,转发微博,0,,,1,ac3dba885b3ebfa3,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvaexn9kY,,repost,26-3-8 19:17,转发微博,0,,,1,7feab99f16ad7dae,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaeL7GAi,,repost,26-3-8 19:17,转发微博,0,,,1,bbf3cfbe58840b68,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaeXa8hf,,repost,26-3-8 19:18,//@水木丁:连自己安装都搞不定的人，你给他们讲这个他们听得懂吗？他们连自己安装的是个什么东西都不知道，等着被黑吧。,0,,,1,926c2879c35b1aa9,2026-08-18,True,Qv9KaDmSf,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaeXqDeP,,repost,26-3-8 19:18,其实我挺理解为什么出这个提示的，毕竟OpenClaw的开发者就入职了OpenAI，而OAI又在助力美军... 我在用小龙虾的时候，哪怕特地防着它了，权限没有开很大，也不影响它依旧试图越权读取数据。,23,,,1,a7e3bec7a730c200,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvaf4fBpa,,repost,26-3-8 19:18,一定会被反噬的。第一个反思就是大家对未来有没有工作产生担忧，更不敢消费。不敢消费经济就起不来。甚至经济危机直接就来。//@秦祎墨:大家是真的不想一想，全交给电脑以后的权限问题吗………………app后台侵犯隐私权限还被在被骂呢…现在来个全智能体就一窝蜂上了…我不 ...全文,0,,,1,cd6e239030d8a1d4,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvafrlMQf,,repost,26-3-8 19:19,转发微博,0,,,1,2f5f10bc0b2f67fa,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvag0f2nc,,repost,26-3-8 19:20,转发微博,0,,,1,3b1e6a73b0e1a0c2,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvafFbOhy,,repost,26-3-8 19:20,#AI龙虾爆火工信部发布高危风险预警# 怎么用呀,0,,,1,94b1bcfadf259bf0,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvag06drS,,repost,26-3-8 19:20,转发微博,0,,,1,2f5f10bc0b2f67fa,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvagqFCLT,,repost,26-3-8 19:21,#AI龙虾爆火工信部发布高危风险预警# 生活就像一面镜子，你笑它也笑，你哭它也哭。选择用积极的心态面对，世界也会回馈你温暖与惊喜。 ​,21,,,1,25f7e8f20c93a7fb,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvagdFw6Q,,repost,26-3-8 19:21,转发微博,0,,,1,0d23c8f6e8fd8d27,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvagE6lA2,,repost,26-3-8 19:22,转发微博,0,,,1,485199a93cadbb23,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvahgevjZ,,repost,26-3-8 19:23,#AI龙虾爆火工信部发布高危风险预警# 没听过呀,0,,,1,3030b650a9eb9f4e,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvahTeOR8,,repost,26-3-8 19:25,转发微博,0,,,1,fd86da5c961d9661,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvaii5g2E,,repost,26-3-8 19:26,转发微博,0,,,1,a9dd00108802591c,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvaiqlzns,,repost,26-3-8 19:26,善良是流动的暖阳，你传递的善意终会照亮归途。善念是星，点亮得越多，越能驱散黑暗；善语是风，吹拂得越远，越能抚平褶皱；善举是泉，流淌得越久，越能滋养心田。无需焦虑结果，时光的刻度，总会在不经意间为善良铭刻荣光。,21,,,1,1af17396d59daa4b,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvairmvrD,,repost,26-3-8 19:26,转发微博,0,,,1,5e8ac1fa470cf6e9,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvaj57f1x,,repost,26-3-8 19:28,转发微博,0,,,1,d8c3de5e3d50aba3,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvajN08XW,,repost,26-3-8 19:30,转发微博,0,,,1,a0cd87e5bdb39cba,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvak802CX,,repost,26-3-8 19:31,转发微博,0,,,1,fed4317670452414,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvakN4p89,,repost,26-3-8 19:32,转发微博,0,,,1,810256d967f4b0e4,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvalG5q8O,,repost,26-3-8 19:34,转发微博,0,,,1,af9c22372b330522,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvamTsud5,,repost,26-3-8 19:37,我对这个感兴趣，不当第一批使用者，等成熟了再用,0,,,1,270b826331e8c884,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvan7fdvS,,repost,26-3-8 19:38,好家伙,0,,,1,2ac96e9ddec97c8f,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvan0iyD7,,repost,26-3-8 19:38,转发微博,0,,,1,91bfa417df5f00c4,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvamXzxV6,,repost,26-3-8 19:38,转发微博,0,,,1,e35e8a9a68a05c87,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvao1oT1r,,repost,26-3-8 19:40,转发微博,0,,,1,86ec91fe2e9fa32e,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaoH3NGb,,repost,26-3-8 19:42,转发微博,0,,,1,d7729c9742a1fe41,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvapDlUZI,,repost,26-3-8 19:44,别焦虑，人生总是会有不如意的，生活从来都是泥沙俱下与荆棘并存 ，来日方长，我们带着诚意慢慢来。,116,,,1,188975d745ae0359,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvapvqur5,,repost,26-3-8 19:44,生活不是用来妥协的，你退缩得越多，能让你喘息的空间就越有限。日子不是用来将就的，你表现得越卑微，一些幸福的东西就会离你越远。,15,,,1,c019cbb2675344e5,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvarLEauW,,repost,26-3-8 19:49,你的隐私啊 你的信息安全啊 我是不装//@从九溪到满觉陇:让用户欢天喜地的把所有权限拱手相让，病毒都自叹不如,0,,,1,1e90a4e1ddac583c,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvarFi2op,,repost,26-3-8 19:49,//@从九溪到满觉陇:让用户欢天喜地的把所有权限拱手相让，病毒都自叹不如,0,,,1,ece2be3bab8e9c75,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvartCFnC,,repost,26-3-8 19:49,转发微博,0,,,1,fd06840b99286de6,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvasdywKv,,repost,26-3-8 19:50,转发微博,0,,,1,e457dada3f36e6bc,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvarU4CzL,,repost,26-3-8 19:50,转发微博,0,,,1,2bb84182e5f442d1,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvasCCcnN,,repost,26-3-8 19:51,转发微博,0,,,1,fa2797a066892cff,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvasUquDi,,repost,26-3-8 19:52,转发微博,0,,,1,b73cd542320dbe72,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvasVAe2M,,repost,26-3-8 19:52,#AI龙虾爆火工信部发布高危风险预警#,0,,,1,8e844e5df0b456b8,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvasZhZzC,,repost,26-3-8 19:52,浑水摸鱼的太多了，所以说让子弹飞一下，不要啥都往自己的电脑里装！小心你的账户密码！#ai龙虾爆火有人几天赚了26万#,0,,,1,deb534cecdd065a3,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvate5E78,,repost,26-3-8 19:53,//@从九溪到满觉陇:让用户欢天喜地的把所有权限拱手相让，病毒都自叹不如,0,,,1,9b3b5b284b8f85d0,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvatNjO7g,,repost,26-3-8 19:54,转发微博,0,,,1,1f719c47e87d95a5,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvatNEH1T,,repost,26-3-8 19:54,别说二十年前，哪怕十年前，把所有计算机权限让给一个软件，这软件叫做病毒,0,,,1,034e7e9f4aae4e57,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvatQujt6,,repost,26-3-8 19:55,普通人可能看到的是裁员危机吧。而且突然火起来，有些怪怪的//@吃石榴偶尔吐籽儿:说没用的是不了解，最简单的，“把这个文件夹里的照片做成视频”，“提取这下面的所有文件内容并总结成工作报告”，所以可能就是因为权限太高，工信部才会提醒，我是干这行相关的，各大厂都在跟进，工信部没那么闲去提醒 ...全文,0,,,1,5f4abe3061f5a501,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvatTrCnZ,,repost,26-3-8 19:55,。//@秦祎墨:大家是真的不想一想，全交给电脑以后的权限问题吗………………app后台侵犯隐私权限还被在被骂呢…现在来个全智能体就一窝蜂上了…我不反对但要慎重……,0,,,1,bf43d411875eefc7,2026-08-18,True,Qva4kdgTx,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvatYBPrM,,repost,26-3-8 19:55,转发微博,0,,,1,ade44ecd6a49ca4f,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvaud6MDr,,repost,26-3-8 19:55,不安全，慎重安装,3,,,1,8c9a5d13283c4640,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvauEzr30,,repost,26-3-8 19:56,无论走到哪里，我们都要学会支撑自己，失败时给自己多一些激励，孤独时给自己多一些温暖，努力让自己的心灵轻快些，让自己的精神轻盈些。,0,,,1,e62a27c70a22b196,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvauEtVYF,,repost,26-3-8 19:56,转发微博,0,,,1,b60298ef26859f2b,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaukBybL,,repost,26-3-8 19:56,转发微博,0,,,1,cc447de2759ca01e,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvav2Dg28,,repost,26-3-8 19:57,//@吃石榴偶尔吐籽儿:说没用的是不了解，最简单的，“把这个文件夹里的照片做成视频”，“提取这下面的所有文件内容并总结成工作报告”，所以可能就是因为权限太高，工信部才会提醒，我是干这行相关的，各大厂都在跟进，工信部没那么闲去提醒一个没用的东西。//@月撒断桥映残雪_939:这个对普通人有啥用 ...全文,0,,,1,6fee686ac4cd8311,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvauQnA9N,,repost,26-3-8 19:57,//@书生杀手:权限越大，风险越大，听话就是工具，不听话或者被攻击就是木马,0,,,1,6fee686ac4cd8311,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvauO1U7D,,repost,26-3-8 19:57,//@智爷拿了冠军也不改名:我信任这个项目但我不信任ai要是哪天降智把我电脑给格式化那就有的哭了//@从九溪到满觉陇:让用户欢天喜地的把所有权限拱手相让，病毒都自叹不如,0,,,1,6fee686ac4cd8311,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvauGDvDg,,repost,26-3-8 19:57,转发微博,0,,,1,6fee686ac4cd8311,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvav64uWQ,,repost,26-3-8 19:58,//@一本仓促的书_:如果你没有可持续通过其产物赚钱的门路，token消耗都够受的。//@月撒断桥映残雪_939:这个对普通人有啥用？？好奇问下,0,,,1,6fee686ac4cd8311,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvawhCTNU,,repost,26-3-8 20:01,转发微博,0,,,1,de7aa49be1bec4b0,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvax1oRdX,,repost,26-3-8 20:02,不论做什么事，都要相信你自己，别让别人的一句话将你击倒。人生没有对错，只有选择后的坚持，不后悔，走下去，走着走着，花就开了。,63,,,1,4ac7d9d439a371c0,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvax1pXIP,,repost,26-3-8 20:02,,0,,,1,7e3bfbd6badc3dcb,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvay6uxe4,,repost,26-3-8 20:05,//@秦祎墨:大家是真的不想一想，全交给电脑以后的权限问题吗………………app后台侵犯隐私权限还被在被骂呢…现在来个全智能体就一窝蜂上了…我不反对但要慎重……,0,,,1,d90833da333a8fe8,2026-08-18,True,Qva4kdgTx,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvayCn9Do,,repost,26-3-8 20:06,//@制造业退休老头:鱿鱼资本//@即看点:我说到处都在安装小龙虾，原来是这个啊,0,,,1,920b1d2ecda3aa6d,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvayE7rK3,,repost,26-3-8 20:06,转发微博,0,,,1,47bc2cbb51736cd0,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvayEkDvo,,repost,26-3-8 20:06,成功时的喜悦如同璀璨烟火，失败时的落寞恰似乌云遮月。但正是这些经历，拼凑出生活的画卷。每一次挫折都是成长的磨砺，每一个微笑都是心灵的阳光。珍惜当下，拥抱生活，因为它从不辜负热爱它的人。,85,,,1,91403013731d270a,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvayFAXVL,,repost,26-3-8 20:06,转发微博,0,,,1,07b3886119e4b17d,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvayMFlPR,,repost,26-3-8 20:07,转发微博,0,,,1,cf66e9cf9c1abc0e,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvayR8CwA,,repost,26-3-8 20:07,有意思，平日里吵吵信息泄露，这次怎么安装这么快不说信息泄露了。当初病毒操控电脑也是这个路数，又为啥要杀毒呢。,6,,,1,a0c187a47fe2dc7a,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvayTpU85,,repost,26-3-8 20:07,转发微博,0,,,1,5e1bc8171874d14a,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvazl3MYM,,repost,26-3-8 20:08,转发微博,0,,,1,fc891776ee36ec90,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvazdihlY,,repost,26-3-8 20:08,//@吃石榴偶尔吐籽儿:说没用的是不了解，最简单的，“把这个文件夹里的照片做成视频”，“提取这下面的所有文件内容并总结成工作报告”，所以可能就是因为权限太高，工信部才会提醒，我是干这行相关的，各大厂都在跟进，工信部没那么闲去提醒一个没用的东西。//@月撒断桥映残雪_939:这个对普通人有啥用 ...全文,0,,,1,36eb05487d5a4fe6,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaAhFHFQ,,repost,26-3-8 20:10,转发微博,0,,,1,4e1d4606ae39cb98,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvazWwZtA,,repost,26-3-8 20:10,养龙虾OpenClaw需要注意保密和安全边界！！！,0,,,1,a3295b956c593cfd,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaAyoE7M,,repost,26-3-8 20:11,加速地球被AI控制的里程碑事件，毁灭吧,0,,,1,3ddf4210086d8356,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaAp6jxN,,repost,26-3-8 20:11,按照网络安全法，正经的该罚那些用龙虾做营销的企业的款了，,0,,,1,f82aa2fac5bf93f9,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaB9gt6i,,repost,26-3-8 20:12,回复@吃石榴偶尔吐籽儿:看得出来你在很认真的解释，结果下面全是只知道怼的。也许只有一天同事学会了替代了自己的工作，才会知道这东西有用没用//@吃石榴偶尔吐籽儿:回复@月撒断桥映残雪_939:说没用的是不了解，最简单的，“把这个文件夹里的照片做成视频”，“提取这下面的所有文件内容并总结成 ...全文,0,,,1,303838b92ed23b9a,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaB2ruZP,,repost,26-3-8 20:12,转发微博,0,,,1,e38aa11b7152fc15,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaATCQZT,,repost,26-3-8 20:12,？,0,,,1,5542d5d926ed4046,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaBk86ga,,repost,26-3-8 20:13,转发微博,0,,,1,a74cbd5d5eeef013,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaBNm6q2,,repost,26-3-8 20:14,00:28,0,,,1,7896e39370d9f32f,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaCA8Hjp,,repost,26-3-8 20:16,转发微博,0,,,1,4489d50fe107e3dc,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaD8pb01,,repost,26-3-8 20:17,希腊人的木马是特洛伊人自己开城门拉进去的,6,,,1,e25d43321d9a16e7,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaCOaOss,,repost,26-3-8 20:17,//@秦祎墨:大家是真的不想一想，全交给电脑以后的权限问题吗………………app后台侵犯隐私权限还被在被骂呢…现在来个全智能体就一窝蜂上了…我不反对但要慎重……,0,,,1,4ca380672337fc18,2026-08-18,True,Qva4kdgTx,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaDXmsmh,,repost,26-3-8 20:19,善良是一种美德，善良是一种远见，善良是一种自信，善良是一种精神力量，善良是一种以逸待劳的沉稳，善良是一种文化，善良一种乐观。,11,,,1,7f446fca403b51d6,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaEofSex,,repost,26-3-8 20:20,转发微博,0,,,1,2bfbea4812b6ea9d,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaFuE5ns,,repost,26-3-8 20:23,#AI龙虾爆火工信部发布高危风险预警#近日，能替你干活的AI“龙虾”OpenClaw全网爆火，因其部署门槛较高，市场催生专业代装服务。据了解，该智能体可7*24小时操控电脑，用户通过语言或消息下达指令，它便能在后台自动完成各类任务，像人一样帮你干活。比如，你可以用它写周报，查网页，帮你订餐厅，甚至 ...全文,0,,,1,b07eb814eb4c8e9a,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaFjAlV2,,repost,26-3-8 20:23,转发微博,0,,,1,845cee15b077d983,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaG1az35,,repost,26-3-8 20:24,转发微博,0,,,1,f188ba91e40872d5,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaFVBW0x,,repost,26-3-8 20:24,转发微博,0,,,1,0ee2147a0b4dbe33,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaGI5NRv,,repost,26-3-8 20:26,转发微博,0,,,1,9fd0fe7c4dab1917,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaGBDV7y,,repost,26-3-8 20:26,App访问我的相册的定位我都想拒绝。。为什么这么多人那么放心//@秦祎墨:大家是真的不想一想，全交给电脑以后的权限问题吗………………app后台侵犯隐私权限还被在被骂呢…现在来个全智能体就一窝蜂上了…我不反对但要慎重……,0,,,1,3560452353ada4ce,2026-08-18,True,Qva4kdgTx,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaGyCdbw,,repost,26-3-8 20:26,转发微博,0,,,1,db1d43efc422a2a7,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaGxstpi,,repost,26-3-8 20:26,转发微博,0,,,1,f137c74832a9cfa0,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaGZgfqT,,repost,26-3-8 20:27,//@秦祎墨:大家是真的不想一想，全交给电脑以后的权限问题吗………………app后台侵犯隐私权限还被在被骂呢…现在来个全智能体就一窝蜂上了…我不反对但要慎重……,0,,,1,0aa646ffb8d3b0cf,2026-08-18,True,Qva4kdgTx,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaH8aoZm,,repost,26-3-8 20:27,转发微博,0,,,1,7e947ef51b5bb792,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaIdwyAL,,repost,26-3-8 20:30,#AI龙虾爆火工信部发布高危风险预警# 这只掀起全民“养虾热”的红色AI龙虾，其实是开源AI智能体OpenClaw——一个能直接操控电脑、24小时自动替你干活的“数字员工”，但伴随其爆火而来的，是工信部紧急发布的高危安全预警，揭示它潜藏的权限失控、数据裸奔等致命风险。#AI龙虾可像人一样帮你干活#,17,,,1,7b80f210f4e912e8,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaI9opRn,,repost,26-3-8 20:30,转发微博,0,,,1,656d3b5ad733e256,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaIm3D2G,,repost,26-3-8 20:30,转发微博,0,,,1,a3819af8ac7fd115,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaIoph6z,,repost,26-3-8 20:30,这是要疯啊，就这么把自己主机的控制权交出去了？被人当了肉鸽都不知道啊//@克羅迪厄斯VIII:希腊人的木马是特洛伊人自己开城门拉进去的,0,,,1,a0e41d7ceec62e57,2026-08-18,True,QvaD8pb01,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaIzoBkb,,repost,26-3-8 20:31,转发微博,0,,,1,314c23ce19f4f149,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaIXjCls,,repost,26-3-8 20:32,发展太快了，不过也需要警惕风险,0,,,1,e2d6771d56abd014,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaJCFAPo,,repost,26-3-8 20:33,//@营养不可缺少:有意思，平日里吵吵信息泄露，这次怎么安装这么快不说信息泄露了。当初病毒操控电脑也是这个路数，又为啥要杀毒呢。,0,,,1,2704ffc630d30995,2026-08-18,True,QvayR8CwA,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaKiwB0H,,repost,26-3-8 20:35,转发微博,0,,,1,d95350f8e3bd5725,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaKru2Wz,,repost,26-3-8 20:35,#AI龙虾爆火工信部发布高危风险预警# 学会等待，就会学会捕捉希望，学会寻找成功之路；学会等待，令心灵的天空群星闪烁，令智慧的花朵芬芳灿烂，令生命的海洋宽广无垠。,16,,,1,32d518acafa50de6,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaL3uuRX,,repost,26-3-8 20:37,#AI龙虾爆火工信部发布高危风险预警# AI太疯狂了，来势汹汹，势不可挡！！！,8,,,1,627a7fc9282acfac,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaMpwk29,,repost,26-3-8 20:40,#AI龙虾爆火工信部发布高危风险预警# 我还没体验呢,0,,,1,7201058014bc33fa,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaMnuszc,,repost,26-3-8 20:40,转发微博,0,,,1,b43b630778995cdf,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaNcBBSb,,repost,26-3-8 20:42,哈哈哈哈，周五晚上我领导才在我们群里发了龙虾，让学习呢，我司还自己好了个类似的呢//@秦祎墨:大家是真的不想一想，全交给电脑以后的权限问题吗………………app后台侵犯隐私权限还被在被骂呢…现在来个全智能体就一窝蜂上了…我不反对但要慎重……,0,,,1,adad04ee06a0b72d,2026-08-18,True,Qva4kdgTx,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaNat8s5,,repost,26-3-8 20:42,转发微博 查看图片,0,,,1,2fc383da6730f8cb,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaMYEXo7,,repost,26-3-8 20:42,我现在想玩也只敢在云上玩呀。//@秦祎墨:大家是真的不想一想，全交给电脑以后的权限问题吗………………app后台侵犯隐私权限还被在被骂呢…现在来个全智能体就一窝蜂上了…我不反对但要慎重……,9,,,1,91391ed8adbe0383,2026-08-18,True,Qva4kdgTx,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaNGtrJ6,,repost,26-3-8 20:43,转发微博,0,,,1,eb816ce54c9b57ef,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaO5Aprd,,repost,26-3-8 20:44,#AI养龙虾#   AI是发展趋势，但也不要把AI渲染得神乎其神！很多场景是AI替代不了的。再者，关于AI龙虾，有代码程序就必然有漏洞，赋予更多的权限，就等于暴露更大风险！,1,,,1,02da778d236a0f75,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaO9Ea9d,,repost,26-3-8 20:45,//@秦祎墨:大家是真的不想一想，全交给电脑以后的权限问题吗………………app后台侵犯隐私权限还被在被骂呢…现在来个全智能体就一窝蜂上了…我不反对但要慎重……,0,,,1,a2b73f906a30d2e8,2026-08-18,True,Qva4kdgTx,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaOaAIJT,,repost,26-3-8 20:45,转发微博,0,,,1,4af49f3387ce2cb0,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaOy7xGz,,repost,26-3-8 20:46,转发微博,0,,,1,fdd2bf2816454256,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaOTtqFi,,repost,26-3-8 20:46,转发微博,0,,,1,569785546096afbc,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaOYoeB8,,repost,26-3-8 20:47,政府提醒了哦//@克羅迪厄斯VIII:希腊人的木马是特洛伊人自己开城门拉进去的,6,,,1,ec3112ccc6981e6a,2026-08-18,True,QvaD8pb01,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaPJeqYA,,repost,26-3-8 20:48,//@秦祎墨:大家是真的不想一想，全交给电脑以后的权限问题吗………………app后台侵犯隐私权限还被在被骂呢…现在来个全智能体就一窝蜂上了…我不反对但要慎重……,0,,,1,cec1d5a264727665,2026-08-18,True,Qva4kdgTx,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaQ3BzYl,,repost,26-3-8 20:49,回复@吃石榴偶尔吐籽儿:他们没脑子，别人没有同意他们，就一定要杠，都是反驳型人格就是了，不用理他们。对我这个工作者来说，我知道对它说处理好某文件夹的图片，它就自己查教程下软件做比对处理照片把结果处理到我手机上了。没事儿，以后AI就是替代他们这类人的（哈哈哈哈，不是）。总有 ...全文,0,,,1,383ddfc71ade9e39,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaQfqRiK,,repost,26-3-8 20:50,转发微博,0,,,1,df83a724b14e54e6,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaQljhLM,,repost,26-3-8 20:50,高风险skills占比将近40%，不理解功能越强代表权限越多的人还在美滋滋当q宝用。🤣//@从九溪到满觉陇:让用户欢天喜地的把所有权限拱手相让，病毒都自叹不如,0,,,1,b84876b8a967db47,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaQojTJf,,repost,26-3-8 20:50,#AI龙虾爆火工信部发布高危风险预警# #AI龙虾可像人一样帮你干活# 近期爆红的开源AI工具OpenClaw（因红色龙虾图标被昵称“AI龙虾”）掀起全民“养虾潮”，其可接管电脑自动执行任务的能力催生高价代安装产业，但工信部紧急发布高危风险预警，揭示其权限失控、数据泄露等安全隐患，引发广泛关注。,0,,,1,8e03133f227f9364,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaRd9rq4,,repost,26-3-8 20:52,转发微博,0,,,1,561c55d7fe410b76,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaSvspa3,,repost,26-3-8 20:55,转发微博,0,,,1,09eb04cbb4b5687f,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaSt8Wt4,,repost,26-3-8 20:55,转发微博,0,,,1,ad2fd829674a256d,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaTldpAk,,repost,26-3-8 20:57,Repost,0,,,1,020e6be031a5068c,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaTkxnkQ,,repost,26-3-8 20:57,公职人员别想了，现在严防泄密。//@客官不要慌:我现在想玩也只敢在云上玩呀。//@秦祎墨:大家是真的不想一想，全交给电脑以后的权限问题吗………………app后台侵犯隐私权限还被在被骂呢…现在来个全智能体就一窝蜂上了…我不反对但要慎重……,0,,,1,0738000470d1d9a2,2026-08-18,True,QvaMYEXo7,resolved_exact_payload,3
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaTEmrFn,,repost,26-3-8 20:58,这就说的通了。我总觉得缺一个解释，为什么男女老少，都去乌央乌央的抢龙虾，跟抢鸡蛋似的。后门太宽，太深，火的这么蹊跷就合理了。,0,,,1,5ee943e72850080a,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaTJzUX6,,repost,26-3-8 20:58,00:29 openclaw,0,,,1,8c2c2a05d1e108ea,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaTPvGtu,,repost,26-3-8 20:59,转发微博,0,,,1,6fe4fcf573144a2b,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaU7m9Kg,,repost,26-3-8 20:59,转发微博,0,,,1,2a33318c2d766e3a,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaUppQKt,,repost,26-3-8 21:00,Repost,0,,,1,020e6be031a5068c,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaUXmx37,,repost,26-3-8 21:01,转发微博,0,,,1,bcded69a69b9747e,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaVoibbk,,repost,26-3-8 21:02,转发微博,0,,,1,9cb28a8a548f0e53,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaVrrB5e,,repost,26-3-8 21:02,我可不信任它 国内大模型的，我也不会开通,0,,,1,70db0776f781c76e,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaWk3jrH,,repost,26-3-8 21:05,转发微博,0,,,1,b6e5125f02275172,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaX41meB,,repost,26-3-8 21:06,转发微博,0,,,1,956bb68f1e6bafad,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaWVpWaN,,repost,26-3-8 21:06,#AI龙虾爆火工信部发布高危风险预警#  大号间谍软件,0,,,1,c394a5ab08c2a655,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaXtkqOa,,repost,26-3-8 21:07,转发微博,0,,,1,feabf2a32dc0087a,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaXAs6md,,repost,26-3-8 21:08,转发微博,0,,,1,d8af93c7847196d7,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaY4m9LO,,repost,26-3-8 21:09,转发微博,0,,,1,4a866d3385aeef2e,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaYCcfAC,,repost,26-3-8 21:10,一想到这种ai有几率把整个磁盘都扬了就想笑,0,,,1,3d5c3ef607708c94,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvaZc6qm5,,repost,26-3-8 21:12,#AI龙虾爆火工信部发布高危风险预警#,0,,,1,0a6eb5961d57bcb0,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvb04AbSA,,repost,26-3-8 21:14,工信部应该直接管而不是发布警告。中国人真的是一点危机意识都没有吗？,0,,,1,d1b34a14f3261b55,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvb0ruhFu,,repost,26-3-8 21:15,转发微博,0,,,1,1e03aee4f91a074f,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvb1oBebl,,repost,26-3-8 21:17,要得到你就必须要付出，要付出你还要学会坚持，如果你真的觉得很难 ，那你就放弃，但你放弃了你就不要抱怨，我觉得人生就是这样，世界真的是平衡的，每个人都是通过自己的努力，去决定自己生活的样子,0,,,1,5c78512a85fb4269,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvb1f4BmW,,repost,26-3-8 21:17,转发微博,0,,,1,d8ee25d73210d27f,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvb1cr4Cl,,repost,26-3-8 21:17,转发微博,0,,,1,36200aef8468bb72,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvb2jlpNh,,repost,26-3-8 21:19,#AI龙虾爆火工信部发布高危风险预警# 要得到你就必须要付出，要付出你还要学会坚持，如果你真的觉得很难 ，那你就放弃，但你放弃了你就不要抱怨，我觉得人生就是这样，世界真的是平衡的，每个人都是通过自己的努力，去决定自己生活的样子,0,,,1,67849ae5fbfddb68,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvb2bikLw,,repost,26-3-8 21:19,转发微博,0,,,1,0d69f23195af60b8,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvb2ImTuP,,repost,26-3-8 21:20,//@小云花花-:别被腾巡和其他媒体上面夸大宣传利用了呀，这到底泄露你都不知道，腾发明科技不见得厉害，外国科技一旦有发明，就立马蹭甜头，,0,,,1,197aeb5309209dd3,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvb3JxBsK,,repost,26-3-8 21:23,转发微博,0,,,1,cbe29775c96c331d,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvb4ueZyx,,repost,26-3-8 21:25,#AI龙虾爆火有人几天赚了26万# #AI龙虾爆火工信部发布高危风险预警# AI的时代诚然已经来临，短剧界都已经有AI剧了，精美的建模脸配上ai音讲故事，没有一丝人气，感受不到情绪和情感，硬生生的批量生产，到最后真实反而才是最稀缺和珍贵的。                                     纵然AI时代已然开启， ...全文,0,,,1,2d5ea0ef70a4bf87,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvb4NrkRc,,repost,26-3-8 21:26,转发微博,0,,,1,979254c9866f1c68,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvb5jqy6O,,repost,26-3-8 21:27,#AI龙虾爆火工信部发布高危风险预警# 【#AI龙虾爆火工信部发布高危风险预警#】#AI龙虾可像人一样帮你干活# 近日，能替你干活的AI“龙虾”OpenClaw全网爆火，因其部署门槛较高，市场催生专业代装服务。 纵览新闻的微博视频,0,,,1,b92568759b3ee8fc,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvb6fg4MO,,repost,26-3-8 21:29,转发微博,0,,,1,892c909c67afe8b9,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvb74neFq,,repost,26-3-8 21:31,还能把你身份信息全破解了盗刷你银行卡。,6,,,1,a9b251a3e7d4cf2e,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvb779xgx,,repost,26-3-8 21:31,转发微博,0,,,1,df906f4cc9e360ec,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvb7ynSR7,,repost,26-3-8 21:32,转发微博,0,,,1,b5943a58192ff56a,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvb7B0in3,,repost,26-3-8 21:32,//@jimcars:现实身边就没有安装的，全是网络在硬推//@即看点:我说到处都在安装小龙虾，原来是这个啊,0,,,1,d90d5b9facf20ca7,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvb7J2iMO,,repost,26-3-8 21:33,转发微博,0,,,1,5c1143b0b323f30e,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvb8gotbz,,repost,26-3-8 21:34,转发微博,0,,,1,d5c8d0fc4712c3e6,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvb8oFSxR,,repost,26-3-8 21:34,#AI龙虾爆火工信部发布高危风险预警# //@从九溪到满觉陇:让用户欢天喜地的把所有权限拱手相让，病毒都自叹不如,0,,,1,b7a2c0b65cd9df54,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvb8tnt81,,repost,26-3-8 21:35,转发微博,0,,,1,b53b00979afe035e,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvb8F515C,,repost,26-3-8 21:35,转发微博,0,,,1,87457322e7961f97,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvb8UqNUR,,repost,26-3-8 21:36,转发微博,0,,,1,b5ccdbee37a47d2b,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvba4lKPE,,repost,26-3-8 21:39,//@书生杀手:权限越大，风险越大，听话就是工具，不听话或者被攻击就是木马,0,,,1,529148f1868e0749,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvbadbwbg,,repost,26-3-8 21:39,转发微博,0,,,1,aefda1567f946fd0,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvbbch3Ok,,repost,26-3-8 21:41,转发微博,0,,,1,d6fa8429fc404bea,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbbCEl4G,,repost,26-3-8 21:42,转发微博,0,,,1,d6d06284244055f2,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbbC42xz,,repost,26-3-8 21:42,转发微博,0,,,1,b68beb3d8b86cff3,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbbAn3eP,,repost,26-3-8 21:42,转发微博,0,,,1,7e1df1a271dc3f0d,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbcjpHgJ,,repost,26-3-8 21:44,转发微博,0,,,1,a9cbe67e0e6ca607,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbcO9G1T,,repost,26-3-8 21:45,//@小汐不发芽-重开版:App访问我的相册的定位我都想拒绝。。为什么这么多人那么放心//@秦祎墨:大家是真的不想一想，全交给电脑以后的权限问题吗………………app后台侵犯隐私权限还被在被骂呢…现在来个全智能体就一窝蜂上了…我不反对但要慎重……,0,,,1,21df29e7c23b2a31,2026-08-18,True,QvaGBDV7y,resolved_exact_payload,3
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbcEynWM,,repost,26-3-8 21:45,转发微博,0,,,1,d19e7306e31423dd,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvbdlpfk6,,repost,26-3-8 21:47,转发微博,0,,,1,193d727bdaa33879,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbdpoBxo,,repost,26-3-8 21:47,早就说了，这个龙虾的安全问题还没解决。,0,,,1,1fcc2fb9e772f86b,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbeiDUhg,,repost,26-3-8 21:49,转发微博,0,,,1,a8641a70710f5569,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvbf4EVK6,,repost,26-3-8 21:51,转发微博,0,,,1,cc7074e6c887becf,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbfHwqsm,,repost,26-3-8 21:52,转发微博,0,,,1,f3311d4f64259c5b,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbgtfREW,,repost,26-3-8 21:54,"#AI龙虾爆火工信部发布高危风险预警# #AI龙虾可像人一样帮你干活# 人人存善念,并能日行一善,则个人、家庭、社会一定安乐祥和。这世上,有时笑笑人家,有时给别人笑笑,放轻松,给自己快乐,也给别人快乐。同学丢一张纸屑一那是制造恶业;我们捡起一张纸屑一这是累积善业。",5,,,1,0db4d23faece43a4,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbgJCAej,,repost,26-3-8 21:55,转发微博,0,,,1,60671cc16b9f3ac6,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbgZ0OAH,,repost,26-3-8 21:56,转发微博,0,,,1,22e6a01404085627,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvbhbfn2Z,,repost,26-3-8 21:56,转发微博,0,,,1,bf0eb44ab03009ee,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbhL1PEe,,repost,26-3-8 21:57,转发微博,0,,,1,2f9c98a6c0b9628c,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbhFg1c8,,repost,26-3-8 21:57,养龙虾，哈哈,0,,,1,f3d065f8aeed3157,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbhH6SEz,,repost,26-3-8 21:57,思考,0,,,1,c4b1ec4dea11a582,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvbjlovjp,,repost,26-3-8 22:01,转发微博,0,,,1,f665cee0dce5a4bf,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvbjek7XN,,repost,26-3-8 22:01,转发微博,0,,,1,1f751fdb60236d17,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbkMDOpZ,,repost,26-3-8 22:05,//@宽容公正麦卡锡:政府提醒了哦//@克羅迪厄斯VIII:希腊人的木马是特洛伊人自己开城门拉进去的,0,,,1,1eff13da2e237c2c,2026-08-18,True,QvaOYoeB8,resolved_exact_payload,3
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvblt9KRs,,repost,26-3-8 22:07,光想着自己省事，泄露本职工作的机密，万一职位敏感，搞大了还是自己坐牢吧？,0,,,1,e7ce22e9e8d53e6d,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvbm9B3XT,,repost,26-3-8 22:08,这的确应该高度警惕,6,,,1,7203be0415427e05,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvblYF3AK,,repost,26-3-8 22:08,等一个国企员工//@宽容公正麦卡锡:政府提醒了哦//@克羅迪厄斯VIII:希腊人的木马是特洛伊人自己开城门拉进去的,1,,,1,7a96d20845a1fd68,2026-08-18,True,QvaOYoeB8,resolved_exact_payload,3
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvbmkyb2t,,repost,26-3-8 22:09,转发微博,0,,,1,8592f84799f998f8,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvbmujnep,,repost,26-3-8 22:09,转发微博,0,,,1,db2fb1aadc3aa260,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbmSAoaW,,repost,26-3-8 22:10,youbing。,0,,,1,2819f1dffb9364a6,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvbn4lf2W,,repost,26-3-8 22:11,转发微博,0,,,1,91da8c98c2742954,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbnkAh8r,,repost,26-3-8 22:11,转发微博,0,,,1,55b9c8a98f454044,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvboyjzDE,,repost,26-3-8 22:14,应该把炒作的人都抓起来！！//@从九溪到满觉陇:让用户欢天喜地的把所有权限拱手相让，病毒都自叹不如,0,,,1,e40048029e3dacad,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbpTpWRX,,repost,26-3-8 22:17,善良是一束美丽的玫瑰，当你赠送他人时，也为你自己留下下了满室的芬芳；善良是冬天里的的太阳，在照耀了他人人的同时，也温暖了你自己。,170,,,1,f5a10b0d70b8da37,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvbq6Dfw1,,repost,26-3-8 22:18,小龙虾成了新 ai代名词,1,,,1,7ffa420f357ca381,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbqahHGj,,repost,26-3-8 22:18,转发微博,0,,,1,f1b85eed07a69de4,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvbqvfq9h,,repost,26-3-8 22:19,转发微博,0,,,1,1cc7eb8f026620b4,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbrflauP,,repost,26-3-8 22:21,转发微博,0,,,1,9f9fd317822bcef7,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbrQivi6,,repost,26-3-8 22:22,转发微博,0,,,1,77e6f7fa47bff298,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbrPoa6N,,repost,26-3-8 22:22,社会主义核心价值体系是“兴国之魂”，建设社会主义核心价值体系是推动文化大发展大繁荣的根本任务。提炼和概括出简明扼要、便于传播践行的社会主义核心价值观，对于建设社会主义核心价值体系具有重要意义。,78,,,1,70b94f5dc834bd30,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbrC6t9U,,repost,26-3-8 22:22,//@书生杀手:权限越大，风险越大，听话就是工具，不听话或者被攻击就是木马,0,,,1,8cfe8cb471a09f58,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbshjCLy,,repost,26-3-8 22:23,#AI龙虾爆火工信部发布高危风险预警# ，#AI龙虾可像人一样帮你干活# ，之前刷抖就知道了这么一款ai软件～听说它的功能可全能了，而且还怎么样怎么样，但我不敢用，我想到了的就是网络安全问题～我的个人相关信息是不是受保护呢？？没彻底搞清楚的前提下，我不敢使用外来的任何ai软件！！！！ ...全文,0,,,1,f0ff5e6ad67a58ea,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvbs02AT2,,repost,26-3-8 22:23,人人存善念，并能日行一善，则个人、家庭、社会一定安乐祥和。这世上，有时笑笑人家，有时给别人笑笑自己，放轻松，给自己快乐，也给别人快乐。同学丢一张纸屑，那是制造恶业；我们捡起一张纸屑，这是累积善业。,0,,,1,ad456c94500cdb2f,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbsHkVU1,,repost,26-3-8 22:24,转发微博,0,,,1,4a013504f6bf3a3c,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbsD0FND,,repost,26-3-8 22:24,转发微博,0,,,1,eb816ce54c9b57ef,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvbsw6cXQ,,repost,26-3-8 22:24,//@我有玉米症马上变爆米花崩你:一百多年前清朝人也以为照相机是洋人用来夺取他们魂魄的//@乘风破浪的Aslan:可能是美国中情局搞的大计划,0,,,1,39e5b6f9f41f7db4,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvbt5D2tN,,repost,26-3-8 22:25,转发微博,0,,,1,6fd3c0cda1d22a9f,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbuyCEXI,,repost,26-3-8 22:29,Repost,0,,,1,087785302f475ac7,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvbv15lz9,,repost,26-3-8 22:30,00:28,0,,,1,9d3980ac688fb8a1,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbvMlXza,,repost,26-3-8 22:32,【#AI龙虾爆火工信部发布高危风险预警#】,0,,,1,2fd11e7d285965db,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbvJ72Vp,,repost,26-3-8 22:32,//@从九溪到满觉陇:让用户欢天喜地的把所有权限拱手相让，病毒都自叹不如,0,,,1,c43fefa2aef71e91,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbwgdNwR,,repost,26-3-8 22:33,要谨慎,0,,,1,f485710e4bb474a0,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvbww5JlK,,repost,26-3-8 22:34,转发微博,0,,,1,4a70ab42ad7c487c,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvbwrz7jl,,repost,26-3-8 22:34,转发微博,0,,,1,0476785175692bda,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbwZqjGt,,repost,26-3-8 22:35,【#AI龙虾爆火工信部发布高危风险预警#】#AI龙虾可像人一样帮你干活# 近日，能替你干活的AI“龙虾”OpenClaw全网爆火，因其部署门槛较高，市场催生专业代装服务。有人花500元请人安装，有人称几天内靠上门安装OpenClaw赚了26万元。据了解，该智能体可7*24小时操控电脑，用户通过语言或消息下达指令，它 ...全文,0,,,1,b7c90edc6d508e6a,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbxVfR7L,,repost,26-3-8 22:37,帮安装的人要是图谋不轨，在电脑里开几个后门，能监控💰有关的APP，这损失得有多大？风险比便利大多了，要小心啊。,0,,,1,3f774295511eba87,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbxCpwpk,,repost,26-3-8 22:37,我一直觉得这玩意真的很隐私漏洞，虽然数据时代隐私已不在，但是这明摆着就是放大了数据权限,0,,,1,b6be6ec104f8d4e7,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvbym4Saa,,repost,26-3-8 22:38,转发微博,0,,,1,d6a47a5c13f1e662,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbyCb6FB,,repost,26-3-8 22:39,转发微博,0,,,1,5b283d9d3422fb84,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbzIqvql,,repost,26-3-8 22:42,转发微博,0,,,1,1a3f6fa323de81a6,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbA6AUyQ,,repost,26-3-8 22:43,转发微博,0,,,1,1f6bcc2b3bff35e1,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbB8a520,,repost,26-3-8 22:45,转发微博,0,,,1,fa1fa7455b678a94,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbC42TxG,,repost,26-3-8 22:47,//@咖喱洋山芋2015:肯定，这玩意儿出来的时候反应平平，一大原因就是风险极高，现在国内就莫名其妙炒起来了//@乘风破浪的Aslan:可能是美国中情局搞的大计划,0,,,1,a0939f968add0f5d,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbBPxVIO,,repost,26-3-8 22:47,转发微博,0,,,1,dc975f532eee8549,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbBKg3bL,,repost,26-3-8 22:47,转发微博,0,,,1,2f5f10bc0b2f67fa,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbCH6uaE,,repost,26-3-8 22:49,转发微博,0,,,1,736108b714ca3711,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbCPwH6W,,repost,26-3-8 22:49,转发微博,0,,,1,e4f8df9fed3d758b,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbDbcDEA,,repost,26-3-8 22:50,转发微博,0,,,1,4e1d4606ae39cb98,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbDAwN48,,repost,26-3-8 22:51,转发微博,0,,,1,ffadb1fe96e4d841,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbDDBP5a,,repost,26-3-8 22:51,转发微博,0,,,1,7ba64a563c91b3c1,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbE3xCRN,,repost,26-3-8 22:52,一边反电诈，一边养龙虾——真是魔幻//@春风耀阳:中国人的数据保密意识真的差//@从九溪到满觉陇:让用户欢天喜地的把所有权限拱手相让，病毒都自叹不如#AI龙虾爆火工信部发布高危风险预警# #AI龙虾可像人一样帮你干活#,1,,,1,b19438687ffe1541,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbEqxbPK,,repost,26-3-8 22:53,转发微博,0,,,1,6858f4e4342309b5,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbETkOK8,,repost,26-3-8 22:54,转发微博,0,,,1,257a645392545c40,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbFBi6wf,,repost,26-3-8 22:56,转发微博,0,,,1,054a3131b7a99325,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbFoF6Hj,,repost,26-3-8 22:56,吓人//@水木丁:连自己安装都搞不定的人，你给他们讲这个他们听得懂吗？他们连自己安装的是个什么东西都不知道，等着被黑吧。,0,,,1,1cc640862aca8d8c,2026-08-18,True,Qv9KaDmSf,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbG3rRlR,,repost,26-3-8 22:57,转发微博,0,,,1,45d1538eab09f0aa,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbGSuCul,,repost,26-3-8 22:59,转发微博,0,,,1,d8ed4eb7d83c7292,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbHgrPJ6,,repost,26-3-8 23:00,转发微博,0,,,1,cc541d504bb7c915,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbHMnM0N,,repost,26-3-8 23:02,转发微博,0,,,1,4fc97454d0a3886e,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbIjDlAW,,repost,26-3-8 23:03,我50给你们安装,0,,,1,7b5add1d1e7c2e1d,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbL6CRch,,repost,26-3-8 23:10,转发微博,0,,,1,5ca9e18dde86b426,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbLM2mXw,,repost,26-3-8 23:11,#AI龙虾爆火工信部发布高危风险预警# 我今天看新华社也发布了风险预警，怎么说呢，大约后面就不太方便应用了。我收藏的攻略可以暂时先不看了！期待国产的龙虾模型能惊艳全世界！我也是非常有信心的,0,,,1,470d04353bc849f3,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbLD61gs,,repost,26-3-8 23:11,评论区一堆原始人😅,0,,,1,4c6a46063f9f0a7f,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbMojkCc,,repost,26-3-8 23:13,转发微博,0,,,1,7fee6f85addc9f53,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbNrjPze,,repost,26-3-8 23:16,转发微博,0,,,1,edb8202570e96373,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbOsFxa1,,repost,26-3-8 23:18,,0,,,1,9c907e89918e1c0e,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbOUsdAO,,repost,26-3-8 23:19,转发微博,0,,,1,693be51bbda22aa1,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbPkqcb0,,repost,26-3-8 23:20,转发,0,,,1,557f69bd60fadbd8,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbRsgYBt,,repost,26-3-8 23:25,转发微博,0,,,1,90bf70471145d21a,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbSx2Pt5,,repost,26-3-8 23:28,#AI龙虾爆火工信部发布高危风险预警#,0,,,1,1d0a771eb6cf681e,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbSlqNCF,,repost,26-3-8 23:28,转发微博,0,,,1,55723e9b638daef1,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbSQaMhU,,repost,26-3-8 23:29,转发微博,0,,,1,c3af346da0ba9ea3,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbTgaXQI,,repost,26-3-8 23:30,我就不用担心，因为搞不懂怎么玩,4,,,1,489d0ee1ea886675,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbTZAG62,,repost,26-3-8 23:32,病毒都自叹不如,0,,,1,c60678a06411b85e,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbUpFhKu,,repost,26-3-8 23:33,意料之中,0,,,1,78f6fdba3c3644f8,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbUkAAES,,repost,26-3-8 23:33,观望观望吧,0,,,1,d409d2d201cf0a3b,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbW3oNXF,,repost,26-3-8 23:37,//@街头萌想家:病毒：换个名字跟模式大家就甘心情愿地把我装进电脑,0,,,1,2bf6381521511c43,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbXhE03B,,repost,26-3-8 23:40,转发微博,0,,,1,f909eec1c6898aee,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvbXPfNRu,,repost,26-3-8 23:41,转发微博,0,,,1,95ace01f2e5bf9c6,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvc0b9NJL,,repost,26-3-8 23:47,#AI龙虾可像人一样帮你干活#,0,,,1,f38d8d60a135981c,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvc095J72,,repost,26-3-8 23:47,#AI龙虾爆火工信部发布高危风险预警#,0,,,1,f38d8d60a135981c,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvc10pL48,,repost,26-3-8 23:49,转发微博,0,,,1,1af0ec5c202db10b,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvc1V5xuh,,repost,26-3-8 23:51,//@资深造梦师:没用过。但对于我这个普通人来讲，做新媒体运营的，本来自己策划写文案脚本。领导嫌慢，让我用ai写，还说让我把知识喂给ai 什么运营方案镜头都让它生成。活生生从一个创意型岗位变成了一个不输出只审稿的//@月撒断桥映残雪_939:这个对普通人有啥用？？好奇问下,0,,,1,7bea446230177f9a,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvc1Ped26,,repost,26-3-8 23:51,转发微博,0,,,1,2c6721b15ed2ba0f,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvc5iDWUm,,repost,26-3-9 00:00,转发微博,1,,,1,74898a19b469ec59,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvc6Jk3MO,,repost,26-3-9 00:03,转发微博,0,,,1,6967759987d77b03,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvc7cwYN5,,repost,26-3-9 00:04,转发微博,0,,,1,ac0e843086730f67,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvc7H0tw7,,repost,26-3-9 00:05,转发微博,0,,,1,d9f1591ad5e31552,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvc8JzdGQ,,repost,26-3-9 00:08,转发微博,0,,,1,c89dccd8634f104c,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvceuAUw6,,repost,26-3-9 00:22,转发微博,0,,,1,5467accf28882232,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvcfh3H9O,,repost,26-3-9 00:24,说的是啥？,1,,,1,47b9e2f1e464c341,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvcgq4ic9,,repost,26-3-9 00:27,转发微博,0,,,1,b8d94932e450f70a,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvciz2BRX,,repost,26-3-9 00:32,转发微博,0,,,1,5e471e1a92d47378,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvcjmAu3G,,repost,26-3-9 00:34,转发微博,0,,,1,2f3a222046bf7ff8,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvcjBrrWT,,repost,26-3-9 00:35,转发微博,0,,,1,5794b8e550d8ecc8,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvcmeobXN,,repost,26-3-9 00:41,没事儿，就删了几个搞AI和销售的数据库和C盘么，多删几个新进玩家的就老实了,0,,,1,0f5359df99219cec,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvcmzwTGd,,repost,26-3-9 00:42,//@秦祎墨:大家是真的不想一想，全交给电脑以后的权限问题吗………………app后台侵犯隐私权限还被在被骂呢…现在来个全智能体就一窝蜂上了…我不反对但要慎重……,0,,,1,6dc4ae4e7a849fe7,2026-08-18,True,Qva4kdgTx,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvcngnKfB,,repost,26-3-9 00:44,$弘信电子 sz300657$ 李强博士发表《待到红杉烂漫时，满城尽是“小龙虾”》主旨演讲。他以近期火爆全网的ai智能体OpenClaw(绰号“小龙虾”)切入，指出AI产业正迎来爆发式增长。他表示，弘信电子将充分发挥在AI全栈生态的领先优势与核心资源，吸引产业链上下游企业集群入驻，为全球AI创业者搭建梦想平台 ...全文,0,,,1,6744be19ee4c0c46,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvcpJndPL,,repost,26-3-9 00:50,转发微博,0,,,1,0d2ec35870a5cc5b,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvcrO7QQk,,repost,26-3-9 00:55,其实安全反而是预期差 老情人，国安股份 可惜我满仓了 不然明天竞价不高的话 肯定弄一些,6,,,1,5726270ba9d06626,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvcsbaK0u,,repost,26-3-9 00:56,转发微博,0,,,1,d72867386b7f14ea,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvcDGiFBa,,repost,26-3-9 01:24,转发微博,0,,,1,13b39f400246b27c,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvcIj7sOD,,repost,26-3-9 01:36,转发微博,0,,,1,66105ad10e14d72d,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvcM3nRdD,,repost,26-3-9 01:45,转发微博,0,,,1,39aaf73bbd6750ed,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvcMdhQhg,,repost,26-3-9 01:45,转发微博,0,,,1,21b65437d9db63f8,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvcMx2vrk,,repost,26-3-9 01:46,,0,,,1,f7bf26a0c765ffa7,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvcOL2cCv,,repost,26-3-9 01:52,转发微博,0,,,1,6520074408629e69,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvcUbyM4b,,repost,26-3-9 02:05,Repost,0,,,1,3932238428fdef5e,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvcZxbTQK,,repost,26-3-9 02:18,推openclaw的就是那些ai公司，这是他们的一种赚钱手段。//@宽容公正麦卡锡:政府提醒了哦//@克羅迪厄斯VIII:希腊人的木马是特洛伊人自己开城门拉进去的,0,,,1,bc0e7e9f989d9614,2026-08-18,True,QvaOYoeB8,resolved_exact_payload,3
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvdipaQEC,,repost,26-3-9 03:05,转发微博,0,,,1,0d69f23195af60b8,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvdA9njdF,,repost,26-3-9 03:48,转发微博,0,,,1,45099e4a9bca1f58,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qve1A0d5R,,repost,26-3-9 04:56,转发微博,0,,,1,2da5a8ab495f6f8d,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvejM2E2o,,repost,26-3-9 05:41,//@秦祎墨:大家是真的不想一想，全交给电脑以后的权限问题吗………………app后台侵犯隐私权限还被在被骂呢…现在来个全智能体就一窝蜂上了…我不反对但要慎重……,0,,,1,6ff6fcb89fb8fd7d,2026-08-18,True,Qva4kdgTx,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QveE1rsoO,,repost,26-3-9 06:31,这部分跟风的人类太易操纵了。少数知道自己在干什么吧。,0,,,1,8e7a3a54a18ab815,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QveW8svhN,,repost,26-3-9 07:15,转发微博,0,,,1,8e0af4b8f8cda63d,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QveXvCX9I,,repost,26-3-9 07:19,人工智障//@佳莲永远是阿姨-FYJS:推openclaw的就是那些ai公司，这是他们的一种赚钱手段。//@宽容公正麦卡锡:政府提醒了哦//@克羅迪厄斯VIII:希腊人的木马是特洛伊人自己开城门拉进去的,1,,,1,9b1da244936ac184,2026-08-18,True,QvcZxbTQK,resolved_exact_payload,4
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QveZDqpvW,,repost,26-3-9 07:24,//@那罗王灵姬:人工智障//@佳莲永远是阿姨-FYJS:推openclaw的就是那些ai公司，这是他们的一种赚钱手段。//@宽容公正麦卡锡:政府提醒了哦//@克羅迪厄斯VIII:希腊人的木马是特洛伊人自己开城门拉进去的,0,,,1,d32b639aee49384f,2026-08-18,True,QveXvCX9I,resolved_exact_payload,5
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvf08t6vc,,repost,26-3-9 07:25,回复@街头萌想家:黑客组织死牛之祭：我都说了是远端控制程序，你们非得叫成特洛伊木马。//@街头萌想家:病毒：换个名字跟模式大家就甘心情愿地把我装进电脑,0,,,1,50ec9e414eb478e3,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvfjlzEVw,,repost,26-3-9 08:12,//@秦祎墨:大家是真的不想一想，全交给电脑以后的权限问题吗………………app后台侵犯隐私权限还被在被骂呢…现在来个全智能体就一窝蜂上了…我不反对但要慎重……,0,,,1,c9928c3ae4824469,2026-08-18,True,Qva4kdgTx,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvfn004tR,,repost,26-3-9 08:21,//@在阳光里打个盹儿:本来就是啊  不考虑数据安全啊   怎么敢什么都交给一个陌生程序,0,,,1,e40fc4a390381c1b,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvfqSe3hD,,repost,26-3-9 08:31,转发微博,0,,,1,1914f9e88475eefc,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvfyrbWce,,repost,26-3-9 08:50,//@秦祎墨:大家是真的不想一想，全交给电脑以后的权限问题吗………………app后台侵犯隐私权限还被在被骂呢…现在来个全智能体就一窝蜂上了…我不反对但要慎重……,0,,,1,3ea8b87d59122b2d,2026-08-18,True,Qva4kdgTx,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvfyUh8ZM,,repost,26-3-9 08:51,都不知道是哪个资本在推就敢装啊？//@秦祎墨:大家是真的不想一想，全交给电脑以后的权限问题吗………………app后台侵犯隐私权限还被在被骂呢…现在来个全智能体就一窝蜂上了…我不反对但要慎重……,0,,,1,770d7bb60d011546,2026-08-18,True,Qva4kdgTx,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvfC7zzM8,,repost,26-3-9 08:59,转发微博,0,,,1,bb8711ec12d7ff55,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvfIdvEJF,,repost,26-3-9 09:14,//@克羅迪厄斯VIII:希腊人的木马是特洛伊人自己开城门拉进去的,0,,,1,08b7aed45b258158,2026-08-18,True,QvaD8pb01,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvfJO4F3a,,repost,26-3-9 09:18,确实有风险,0,,,1,196512e354eaf5d3,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvfNq4KAA,,repost,26-3-9 09:26,//@吃石榴偶尔吐籽儿: 说没用的是不了解，最简单的，“把这个文件夹里的照片做成视频”，“提取这下面的所有文件内容并总结成工作报告”，所以可能就是因为权限太高，工信部才会提醒，我是干这行相关的，各大厂都在跟进，工信部没那么闲去提醒一个没用的东西。 //@月撒断桥映残雪_939: 这个对普通人有 ...全文,0,,,1,61d19c56b1eab6ab,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvfN5eJFr,,repost,26-3-9 09:26,原来这就是龙虾,0,,,1,04af5ca566320072,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvfQBxo0E,,repost,26-3-9 09:34,转发微博,0,,,1,791d7d52662b4397,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvfRWtSZO,,repost,26-3-9 09:38,Repost,0,,,1,cb33467b807e754f,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvfWmo4I2,,repost,26-3-9 09:48,//@水木丁:连自己安装都搞不定的人，你给他们讲这个他们听得懂吗？他们连自己安装的是个什么东西都不知道，等着被黑吧。,0,,,1,2b0542a55e59abd4,2026-08-18,True,Qv9KaDmSf,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvfW7sI8F,,repost,26-3-9 09:48,生于忧患，死于安乐,0,,,1,3fd47652d9638b67,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvfYQ95x9,,repost,26-3-9 09:55,//@宽容公正麦卡锡:政府提醒了哦//@克羅迪厄斯VIII:希腊人的木马是特洛伊人自己开城门拉进去的,1,,,1,37c196fbbffa9251,2026-08-18,True,QvaOYoeB8,resolved_exact_payload,3
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvg183JbT,,repost,26-3-9 10:00,想起一部电影《机器人总动员》，当时飞艇上的管理机器人不就想控制人类，不让回到发现有绿植的地球，要毁掉伊娃带回来的绿植么。而人类在智能机器人的服务下，变成了行动不便的胖子，连站立都成问题。当时看觉得编剧脑洞大，现在看么不好说…,0,,,1,afd1bf6d4633f122,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvgdDlqBm,,repost,26-3-9 10:31,//@水木丁:连自己安装都搞不定的人，你给他们讲这个他们听得懂吗？他们连自己安装的是个什么东西都不知道，等着被黑吧。,0,,,1,878921dd75b3c2dd,2026-08-18,True,Qv9KaDmSf,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvgdwARrO,,repost,26-3-9 10:31,转发微博,0,,,1,305629c2fc284333,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvgkH073i,,repost,26-3-9 10:48,今天听广播才知道何为龙虾，现在的各种新知识点，不天天听新闻，分分钟就更不上时代了。,0,,,1,d6a32e0eca9d9866,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvglu103c,,repost,26-3-9 10:50,@常州赛维思试验箱,0,,,1,15f28c48e69be452,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvgmZbgq6,,repost,26-3-9 10:54,转发微博,0,,,1,3467628f4fa10831,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvgBgsMEl,,repost,26-3-9 11:29,//@营养医师王兴国:这的确应该高度警惕,0,,,1,58a8edd1edeb99e1,2026-08-18,True,Qvbm9B3XT,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvgCS3OXA,,repost,26-3-9 11:33,转发微博,0,,,1,1408c4a0058b7a99,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvgGUiojy,,repost,26-3-9 11:43,//@秦祎墨:大家是真的不想一想，全交给电脑以后的权限问题吗………………app后台侵犯隐私权限还被在被骂呢…现在来个全智能体就一窝蜂上了…我不反对但要慎重……,0,,,1,3e082c1ce4c53a4b,2026-08-18,True,Qva4kdgTx,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvgKrxAXv,,repost,26-3-9 11:52,转发微博,0,,,1,34436860d91f862e,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvgXy6Et9,,repost,26-3-9 12:24,转发微博,0,,,1,ec62f5b07076e210,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvgZhqKPG,,repost,26-3-9 12:28,转发微博,0,,,1,55723e9b638daef1,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvh0afFGW,,repost,26-3-9 12:31,一大早工作群已经严令禁止下载安装了,0,,,1,5ee08419f2b2123e,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvhdvq44l,,repost,26-3-9 13:03,转发微博,0,,,1,9e22f51017d8a5f7,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvhu30ZRx,,repost,26-3-9 13:44,还可以操控电脑 ip 去攻击其他网络，甚至留下点什么。服务器都不用买了。,0,,,1,a060932ba87d8df6,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvhAh4ATC,,repost,26-3-9 14:00,//@秦祎墨:大家是真的不想一想，全交给电脑以后的权限问题吗………………app后台侵犯隐私权限还被在被骂呢…现在来个全智能体就一窝蜂上了…我不反对但要慎重……,0,,,1,9c7656c263b725b0,2026-08-18,True,Qva4kdgTx,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvhMR0AUw,,repost,26-3-9 14:31,//@水木丁:连自己安装都搞不定的人，你给他们讲这个他们听得懂吗？他们连自己安装的是个什么东西都不知道，等着被黑吧。,0,,,1,1116a54243a53987,2026-08-18,True,Qv9KaDmSf,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvhRNpVfQ,,repost,26-3-9 14:43,这个项目应该叫停。//@小圈-202501:还可以操控电脑 ip 去攻击其他网络，甚至留下点什么。服务器都不用买了。,0,,,1,a060932ba87d8df6,2026-08-18,True,Qvhu30ZRx,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvhUbBboV,,repost,26-3-9 14:49,这曾是一种黑客手段。现在成了一种商业服务。,0,,,1,a060932ba87d8df6,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvi6vBYUH,,repost,26-3-9 15:19,只要黑客给你的邮箱发一个木马，AI帮你读一下。它就被策反了~~//@秦祎墨:大家是真的不想一想，全交给电脑以后的权限问题吗………………app后台侵犯隐私权限还被在被骂呢…现在来个全智能体就一窝蜂上了…我不反对但要慎重……,0,,,1,4ff91ecb1f9fda84,2026-08-18,True,Qva4kdgTx,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvieoq0GZ,,repost,26-3-9 15:38,回复@归去黑天:权限都要了，但凡想干点啥也就干了而且比以前干得大得多//@归去黑天:回复@颟顸橘士:对在哪,0,,,1,3090504cde58c228,2026-08-18,True,,parent_not_visible,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qviw7nevh,,repost,26-3-9 16:22,//@宽容公正麦卡锡:政府提醒了哦//@克羅迪厄斯VIII:希腊人的木马是特洛伊人自己开城门拉进去的,0,,,1,9c6529082bc77d1a,2026-08-18,True,QvaOYoeB8,resolved_exact_payload,3
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QviwFqxFf,,repost,26-3-9 16:23,转发微博,0,,,1,5c73fc7d5804b7e8,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvixrdh94,,repost,26-3-9 16:25,转发微博,0,,,1,75251af7064f5367,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvizcb3Lg,,repost,26-3-9 16:30,有些人就是有头脑！不管三七二十一，先挣一波！佩服！,0,,,1,8a232dfb36b34699,2026-08-18,False,,direct_or_unobservable,1
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QviXahdIx,,repost,26-3-9 17:29,//@宽容公正麦卡锡:政府提醒了哦//@克羅迪厄斯VIII:希腊人的木马是特洛伊人自己开城门拉进去的,0,,,1,e65d39777d83e31f,2026-08-18,True,QvaOYoeB8,resolved_exact_payload,3
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,Qvjeew4P7,,repost,26-3-9 18:11,//@营养医师王兴国:这的确应该高度警惕,0,,,1,3bfea1ec87bfbef7,2026-08-18,True,Qvbm9B3XT,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvjgCoDwq,,repost,26-3-9 18:17,OpenClow就是个开源的玩具，安全性一笔雕凿，拿着随便玩玩就行了，真用它干活会出大事的。//@佳莲永远是阿姨-FYJS:推openclaw的就是那些ai公司，这是他们的一种赚钱手段。//@宽容公正麦卡锡:政府提醒了哦//@克羅迪厄斯VIII:希腊人的木马是特洛伊人自己开城门拉进去的,0,,,1,c9012254a070422d,2026-08-18,True,QvcZxbTQK,resolved_exact_payload,4
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvjFNuMXO,,repost,26-3-9 19:19,萧条的互联网市场，流氓软件迎来了春天//@小圈-202501:这曾是一种黑客手段。现在成了一种商业服务。,0,,,1,a060932ba87d8df6,2026-08-18,True,QvhUbBboV,resolved_exact_payload,2
+weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,QvjQLuR2I,,repost,26-3-9 19:46,转发微博,0,,,1,1fec678d3ceea789,2026-08-18,False,,direct_or_unobservable,1

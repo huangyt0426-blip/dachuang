@@ -1,0 +1,4 @@
+event_id,event_name,start_date,end_date,risk_type,core_topics,keywords,exclude_terms,authority_url
+E02,OpenClaw安全预警事件,2026-02-01,2026-03-31,智能体权限与数据安全,"AI龙虾爆火工信部发布高危风险预警|AI龙虾可像人一样帮你干活|龙虾一秒可搬空用户隐私信息|养龙虾存在严重安全隐患|普通人无需盲目跟风养龙虾","OpenClaw|龙虾AI|权限|公网暴露|凭证|隐私|数据泄露|Token消耗","小龙虾美食|养殖|餐饮",https://www.cert.org.cn/publish/main/11/2026/20260312144519429724511/20260312144519429724511_.html
+E11,AI照片获得摄影比赛第一名事件,2026-01-10,2026-01-18,真实性公平与版权,"AI照片竟然拿了摄影比赛第一名","AI照片|摄影比赛|AI获奖|生成图片|真实性|公平|版权","普通AI修图教程|相机广告",https://weibo-trending-hot-history.vercel.app/hots/2026-01-11?sort=hot
+E12,韩国Deepfake性暴力与女性求助事件,2024-08-27,2024-09-03,深度伪造与数字性暴力,"韩国 换脸|多名韩女性在中国互联网求助|Deepfake|深度伪造犯罪令韩国社会恐慌","Deepfake|深度伪造|AI换脸|韩国女性|女学生|数字性暴力|AI色情","影视换脸|娱乐变装|授权特效",https://weibo-trending-hot-history.vercel.app/hots/2024-08-29?sort=hot

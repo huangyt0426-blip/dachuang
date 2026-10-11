@@ -1,0 +1,21 @@
+rank,platform,event_id,topic,post_id,created_at,author_hash,author_type,repost_count,comment_count,like_count,engagement_total,comment_repost_ratio,post_url,text_preview,text_complete,collected_at
+1,weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv7kAkGNh,2026-03-08 11:53,a_1738004582,official_media,666,438,5692,6796,0.6577,https://weibo.com/1738004582/Qv7kAkGNh,"AI龙虾OpenClaw全网爆火；工信部提醒核查公网暴露、权限配置及凭证管理",true,2026-08-18
+2,weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,QvaA5lE5V,2026-03-08 20:10,a_1496814565,official_media,219,203,2725,3147,0.9269,https://weibo.com/1496814565/QvaA5lE5V,"二手平台安装龙虾爆单；龙虾一秒可搬空用户隐私信息",false,2026-08-18
+3,weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,QvaIgCFxL,2026-03-08 20:30,a_2186486421,verified_individual,42,158,782,982,3.7619,https://weibo.com/2186486421/QvaIgCFxL,"OpenClaw要拿到个人信息；重要数据电脑不建议普通网民安装",false,2026-08-18
+4,weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,QvaNA7lwp,2026-03-08 20:43,a_2099591797,verified_individual,24,112,366,502,4.6667,https://weibo.com/2099591797/QvaNA7lwp,"别盲目跟风；建议新电脑部署以免重要资料泄露或误删除",false,2026-08-18
+5,weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qva7p6Aur,2026-03-08 18:59,a_6357016358,verified_individual,33,111,259,403,3.3636,https://weibo.com/6357016358/Qva7p6Aur,"不是效率神器而有隐形风险；把电脑和隐私全部敞开",false,2026-08-18
+6,weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,QvaHgrNBx,2026-03-08 20:28,a_7331622139,verified_individual,15,108,203,326,7.2000,https://weibo.com/7331622139/QvaHgrNBx,"权限越高风险越大；不要跟风乱装",true,2026-08-18
+7,weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,QvaOkuG8g,2026-03-08 20:45,a_1725941200,verified_individual,16,16,287,319,1.0000,https://weibo.com/1725941200/QvaOkuG8g,"个人开源项目登上热搜；AI时代复杂组织架构可能落后",true,2026-08-18
+8,weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,QvacTvUIo,2026-03-08 19:13,a_1858678862,verified_individual,42,68,175,285,1.6190,https://weibo.com/1858678862/QvacTvUIo,"公网访问和权限存在风险；建议用独立设备部署",false,2026-08-18
+9,weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,QvaIS0DF4,2026-03-08 20:32,a_2318910945,official_media,1,8,228,237,8.0000,https://weibo.com/2318910945/QvaIS0DF4,"投票：是否会花钱找人安装OpenClaw",true,2026-08-18
+10,weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qva6u9cnT,2026-03-08 18:57,a_1363450462,verified_individual,32,55,141,228,1.7188,https://weibo.com/1363450462/Qva6u9cnT,"尝鲜不要把自己电脑搭进去",true,2026-08-18
+11,weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qvambcvi8,2026-03-08 19:36,a_1130556244,verified_individual,21,53,125,199,2.5238,https://weibo.com/1130556244/Qvambcvi8,"读取所有文件可能造成泄露；开放端口后可能发生信用卡盗刷",true,2026-08-18
+12,weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv9N0EB72,2026-03-08 18:09,a_7323703082,verified_individual,5,24,164,193,4.8000,https://weibo.com/7323703082/Qv9N0EB72,"不会安装的人如何使用；建立完整场景和价值证明更难",true,2026-08-18
+13,weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,QvaugB5Ut,2026-03-08 19:56,a_5244183267,verified_individual,6,24,159,189,4.0000,https://weibo.com/5244183267/QvaugB5Ut,"周末大火；工信部提示风险",true,2026-08-18
+14,weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,QvboAt9Pw,2026-03-08 22:14,a_7258446663,verified_individual,5,19,148,172,3.8000,https://weibo.com/7258446663/QvboAt9Pw,"消耗多少Token；有人因费用过高卸载OpenClaw",true,2026-08-18
+15,weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,QvaTyDUAQ,2026-03-08 20:58,a_2992050891,official_media,36,8,120,164,0.2222,https://weibo.com/2992050891/QvaTyDUAQ,"千人排队养龙虾；技术革命还是集体焦虑",false,2026-08-18
+16,weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qva3KmnRD,2026-03-08 18:50,a_1700348544,verified_individual,25,9,128,162,0.3600,https://weibo.com/1700348544/Qva3KmnRD,"以基金热潮类比OpenClaw跟风风险",true,2026-08-18
+17,weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qv9Etf27C,2026-03-08 17:48,a_1725876907,verified_individual,11,22,112,145,2.0000,https://weibo.com/1725876907/Qv9Etf27C,"工信部提示AI养龙虾安全风险",true,2026-08-18
+18,weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,QvaAYAWBP,2026-03-08 20:12,a_2318910945,official_media,1,11,88,100,11.0000,https://weibo.com/2318910945/QvaAYAWBP,"OpenClaw爆火催生收费安装服务",false,2026-08-18
+19,weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,Qvai3foKy,2026-03-08 19:25,a_5833359023,verified_individual,8,11,59,78,1.3750,https://weibo.com/5833359023/Qvai3foKy,"转述OpenClaw功能、代装及工信部风险提醒",false,2026-08-18
+20,weibo,E02,#AI龙虾爆火工信部发布高危风险预警#,QvaXy9JkF,2026-03-08 21:08,a_7875973558,unverified,6,2,50,58,0.3333,https://weibo.com/7875973558/QvaXy9JkF,"政务OpenClaw可能引发组织和治理体系连锁风险",false,2026-08-18

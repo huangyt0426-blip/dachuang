@@ -1,0 +1,1 @@
+event_id,topic,post_id,created_at,text_raw,author_hash,author_type,repost_count,comment_count,like_count,post_url,collected_at,reported_reposts,visible_reposts_collected,reported_comments,visible_comments_collected,collection_status

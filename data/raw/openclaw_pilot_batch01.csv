@@ -1,0 +1,25 @@
+platform,post_id,parent_id,event_id,event_name,query,created_at,text_raw,like_count,comment_count,repost_count,url_hash,collected_at
+weibo,oc01_c001,Qv7kAkGNh,E02,OpenClaw开源AI智能体安全风险,OpenClaw安全,2026-03-08 18:06,"权限越大，风险越大，听话就是工具，不听话或者被攻击就是木马",794,,,wb_Qv7kAkGNh,2026-08-18
+weibo,oc01_c002,Qv7kAkGNh,E02,OpenClaw开源AI智能体安全风险,OpenClaw安全,2026-03-08 22:02,"如果管理不好，迟早会发生某AI类似龙虾帮主人刷空账户余额的网络安全事件，只是我个人预感，除非按照工信部的提醒操作，安全性高一些",23,,,wb_Qv7kAkGNh,2026-08-18
+weibo,oc01_c003,Qv7kAkGNh,E02,OpenClaw开源AI智能体安全风险,OpenClaw谁负责,2026-03-09 01:06,"问题是这种工具你根本不知道谁能负责，相当于把自己所有信息公开给了AI工具背后的人，谁知道呢",9,,,wb_Qv7kAkGNh,2026-08-18
+weibo,oc01_c004,Qv7kAkGNh,E02,OpenClaw开源AI智能体安全风险,OpenClaw安全,2026-03-08 17:55,"病毒：换个名字跟模式大家就甘心情愿地把我装进电脑",626,,,wb_Qv7kAkGNh,2026-08-18
+weibo,oc01_c005,Qv7kAkGNh,E02,OpenClaw开源AI智能体安全风险,OpenClaw安全,2026-03-09 12:13,"被评论区的懂哥们教育了，谢谢科普，吓哭了",1,,,wb_Qv7kAkGNh,2026-08-18
+weibo,oc01_c006,Qv7kAkGNh,E02,OpenClaw开源AI智能体安全风险,OpenClaw安全,2026-03-09 07:02,"还是不一样的，只是有危险性，但不代表和病毒一个性质",1,,,wb_Qv7kAkGNh,2026-08-18
+weibo,oc01_c007,Qv7kAkGNh,E02,OpenClaw开源AI智能体安全风险,OpenClaw安全,2026-03-08 17:34,"可能是美国中情局搞的大计划",239,,,wb_Qv7kAkGNh,2026-08-18
+weibo,oc01_c008,Qv7kAkGNh,E02,OpenClaw开源AI智能体安全风险,OpenClaw安全,2026-03-08 17:57,"这东西出来的时候反应平平，一大原因就是风险极高，现在国内就莫名其妙炒起来了",114,,,wb_Qv7kAkGNh,2026-08-18
+weibo,oc01_c009,Qv7kAkGNh,E02,OpenClaw开源AI智能体安全风险,OpenClaw安全,2026-03-08 19:54,"一百多年前清朝人也以为照相机是洋人用来夺取他们魂魄的",26,,,wb_Qv7kAkGNh,2026-08-18
+weibo,oc01_c010,Qv7kAkGNh,E02,OpenClaw开源AI智能体安全风险,龙虾AI,2026-03-08 12:49,"我说到处都在安装小龙虾，原来是这个啊",144,,,wb_Qv7kAkGNh,2026-08-18
+weibo,oc01_c011,Qv7kAkGNh,E02,OpenClaw开源AI智能体安全风险,龙虾AI,2026-03-08 20:32,"现实身边就没有安装的，全是网络在硬推",50,,,wb_Qv7kAkGNh,2026-08-18
+weibo,oc01_c012,Qv7kAkGNh,E02,OpenClaw开源AI智能体安全风险,OpenClaw数据安全,2026-03-08 18:03,"本来就是啊，不考虑数据安全吗，怎么敢什么都交给一个陌生程序",153,,,wb_Qv7kAkGNh,2026-08-18
+weibo,oc01_c013,Qv7kAkGNh,E02,OpenClaw开源AI智能体安全风险,OpenClaw数据安全,2026-03-08 21:58,"本地运行，数据都在本地",1,,,wb_Qv7kAkGNh,2026-08-18
+weibo,oc01_c014,Qv7kAkGNh,E02,OpenClaw开源AI智能体安全风险,OpenClaw权限,2026-03-08 21:29,"操作账户给这个程序才能运行",2,,,wb_Qv7kAkGNh,2026-08-18
+weibo,oc01_c015,Qv7kAkGNh,E02,OpenClaw开源AI智能体安全风险,OpenClaw安全,2026-03-08 19:47,"这还开发啥病毒啊，妥妥的肉鸡送上门",42,,,wb_Qv7kAkGNh,2026-08-18
+weibo,oc01_c016,Qv7kAkGNh,E02,OpenClaw开源AI智能体安全风险,OpenClaw安全,2026-03-08 20:16,"登录国内也没事，一个愿打一个愿挨，最后可能各大应用市场都审核过，全程开启防火墙",0,,,wb_Qv7kAkGNh,2026-08-18
+weibo,oc01_c017,Qv7kAkGNh,E02,OpenClaw开源AI智能体安全风险,OpenClaw用途,2026-03-08 13:04,"这个对普通人有啥用，好奇问下",37,,,wb_Qv7kAkGNh,2026-08-18
+weibo,oc01_c018,Qv7kAkGNh,E02,OpenClaw开源AI智能体安全风险,OpenClaw权限,2026-03-08 17:58,"说没用的是不了解，最简单的，把文件夹里的照片做成视频，提取所有文件内容并总结成工作报告，所以可能就是因为权限太高工信部才会提醒",101,,,wb_Qv7kAkGNh,2026-08-18
+weibo,oc01_c019,Qv7kAkGNh,E02,OpenClaw开源AI智能体安全风险,OpenClaw用途,2026-03-08 17:49,"普通人应该用不到，没有这方面需求",41,,,wb_Qv7kAkGNh,2026-08-18
+weibo,oc01_c020,Qv7kAkGNh,E02,OpenClaw开源AI智能体安全风险,OpenClaw安全,2026-03-08 17:44,"鱿鱼特洛伊木马",39,,,wb_Qv7kAkGNh,2026-08-18
+weibo,oc01_c021,Qv7kAkGNh,E02,OpenClaw开源AI智能体安全风险,OpenClaw安全,2026-03-08 18:40,"不用就不会有风险",15,,,wb_Qv7kAkGNh,2026-08-18
+weibo,oc01_c022,Qv7kAkGNh,E02,OpenClaw开源AI智能体安全风险,OpenClaw权限,2026-03-08 18:34,"这不就是被人操控了",20,,,wb_Qv7kAkGNh,2026-08-18
+weibo,oc01_c023,Qv7kAkGNh,E02,OpenClaw开源AI智能体安全风险,OpenClaw用途,2026-03-08 18:52,"听着也没那么智能，看起来像是给权限，它在用别的AI帮你做事情，像是串起各个AI软件的中间商",24,,,wb_Qv7kAkGNh,2026-08-18
+weibo,oc01_c024,Qv7kAkGNh,E02,OpenClaw开源AI智能体安全风险,OpenClaw用途,2026-03-08 22:26,"就是一个管家，调用API接口或者脚本帮你干活",3,,,wb_Qv7kAkGNh,2026-08-18
