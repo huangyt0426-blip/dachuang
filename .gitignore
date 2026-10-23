@@ -14,6 +14,9 @@ outputs/openclaw_formal_experiment/*
 !outputs/ai_photo_competition_formal_experiment/
 outputs/ai_photo_competition_formal_experiment/*
 !outputs/ai_photo_competition_formal_experiment/AI照片摄影比赛事件正式实验数据表.xlsx
+!outputs/deepfake_korea_formal_experiment/
+outputs/deepfake_korea_formal_experiment/*
+!outputs/deepfake_korea_formal_experiment/韩国Deepfake事件正式实验数据表.xlsx
 checkpoints/
 wandb/
 artifacts/review/source_readonly_copy.doc
